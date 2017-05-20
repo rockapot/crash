@@ -1,0 +1,404 @@
+//
+// Novel TeX
+//
+// Export style to show two-sided, book-like layout 
+// with custom page size
+//
+// Visit http://www.ulyssesapp.com/styles
+// for full reference
+//
+
+
+//
+// Document & Layout Settings
+//
+
+document-settings {
+  page-width: 160mm
+  page-height: 233mm
+  page-inset-top: 18mm
+  page-inset-inner: 18mm
+  page-inset-bottom: 18mm
+  page-inset-outer: 18mm
+
+  section-break: heading-1
+  // always have H1 on a new page
+
+  two-sided: yes
+
+  page-binding: left
+
+  footnote-enumeration: per-section
+  footnote-placement: end-of-page
+  footnote-style: decimal
+}
+
+
+
+//
+// Default Typography
+//
+
+defaults {
+  font-family: "CMU Serif"
+  font-size: 11pt
+  line-height: 22pt
+
+  text-alignment: justified
+  hyphenation: yes
+  // individual styles can override this
+}
+
+
+
+//
+// Basic Non-Text-Area Page Layout
+//
+
+area-header {
+  content: none
+  top-spacing: 0mm
+  bottom-spacing: 0mm
+}
+
+area-footnotes {
+  font-size: 10pt
+  line-height: 12pt
+  top-spacing: 10mm
+  // additional space cut off from text area
+
+  divider-width: 0.5pt
+  divider-length: 20mm
+  divider-spacing: 5pt
+  // space between divider and footnotes
+
+  anchor-inset: 5mm
+  anchor-alignment: right
+
+  text-inset: 6mm
+}
+
+area-footer {
+  content: page-number
+  text-alignment: center
+  top-spacing: 0mm
+  bottom-spacing: 26mm
+}
+
+area-footer:left-page {
+  text-alignment: left
+}
+
+area-footer:right-page {
+  text-alignment: right
+}
+
+area-footer:first-page {
+  content: none
+}
+
+
+
+//
+// Reusable styles (variables & mixins)
+//
+
+$mark-color =  #FEFDD5
+$black =  #000000
+$light-grey =  #F1F1F1
+$link-color =  #E1F5FF
+// Readable colors FTW!
+
+@code {
+  font-family: "CMU Serif"
+
+  font-weight: normal
+  font-slant: normal
+  // Reset all traits to normal, since this can appear anywhere
+}
+
+
+
+//
+// Headers
+//
+
+heading-all {
+  font-family: "CMU Bright"
+  keep-with-following: true
+  text-alignment: left
+  hyphenation: no
+  // Remember that setting in defaults?
+}
+
+heading-1 {
+  font-size: 24pt
+  line-height: 28pt
+  margin-top: 64pt
+  // Since H1 is section break, this adds to first page top margin
+  margin-bottom: 64pt
+}
+
+heading-2 {
+  font-size: 10pt
+  line-height: 10pt
+  margin-top: 36pt
+  margin-bottom: 7pt
+  page-break: before
+}
+
+heading-3 {
+  font-size: 10pt
+  line-height: 10pt
+  margin-top: 36pt
+  margin-bottom: 7pt
+}
+
+heading-4 {
+  font-size: 11pt
+  margin-top: 14pt
+  margin-bottom: 7pt
+}
+
+heading-5 {
+  font-size: 10pt
+  margin-top: 14pt
+}
+
+heading-6 {
+  font-size: 9pt
+  margin-top: 14pt
+}
+
+
+
+//
+// Paragraph styles
+//
+
+paragraph {
+  first-line-indent: 10pt
+}
+
+paragraph:first {
+  first-line-indent: 0pt
+  // Do not indent the first paragraph, like... ever
+}
+
+heading-all + paragraph {
+  first-line-indent: 0pt
+  // Do not indent the first paragraph after any headline
+}
+
+paragraph-divider {
+  margin-bottom: 12pt
+  // page-break: after
+  // Set the divider to help with manual page breaks
+}
+
+paragraph-figure {
+  margin-top: 14pt
+  margin-bottom: 7pt
+  text-alignment: center
+  // Applies to paragraphs that only hold images
+}
+
+paragraph-figure + paragraph {
+  first-line-indent: 0pt
+  // Do not indent the first paragraph after a figure
+}
+
+block-all + paragraph {
+  first-line-indent: 0pt
+  // Do not indent the first paragraph after a list or quote
+}
+
+
+
+//
+// Block styles
+//
+
+block-all {
+  margin-top: 12pt
+  margin-bottom: 12pt
+
+  margin-left: 28pt
+  margin-right: 28pt
+}
+
+block-code : @code {
+  font-size: 10pt
+
+  // No need to set the font, since @code calls Courier
+}
+
+block-code paragraph {
+  first-line-indent: 0pt
+  text-alignment: left
+  hyphenation: no
+}
+
+block-quote {
+  font-slant: italic
+}
+
+block-raw {
+  visibility: hidden
+  // kills raw source blocks
+}
+
+block-comment {
+  visibility: hidden
+  // kills comment blocks
+}
+
+
+
+//
+// List styles
+//
+
+list-all {
+  margin-left: 10pt
+  margin-right: 10pt
+  item-spacing: 7pt
+  // overwrites block-all
+}
+
+list-all list-all {
+  margin-top: 7pt
+  margin-bottom: 7pt
+  // Spacings between nested ordered and unordered lists
+}
+
+list-ordered {
+  enumeration-format: "%p. "
+  enumeration-style: decimal
+  text-inset: 13pt
+  // Simulates tab stop justified right
+}
+
+list-ordered list-ordered {
+  enumeration-format: "%*%p"
+  enumeration-style: decimal
+  text-inset: 26pt
+  // Simulates tab stop justified right
+}
+
+list-ordered list-ordered list-ordered {
+  enumeration-format: "%*.%p"
+  enumeration-style: decimal
+  text-inset: 39pt
+  // Simulates tab stop justified right
+}
+
+list-unordered {
+  enumeration-format: "–"
+  text-inset: 10pt
+  // Simulates tab stop justified right
+}
+
+list-unordered list-unordered {
+  enumeration-format: "–"
+  text-inset: 10pt
+  // Simulates tab stop justified right
+}
+
+heading-all + list-all {
+  margin-top: 0pt
+  // Sets first list item after headline as if it were a paragraph
+}
+
+list-all paragraph {
+  margin-top: 0pt
+  // No spacing within a list
+}
+
+
+
+//
+// Inline styles
+//
+
+inline-strong {
+  font-weight: bold
+}
+
+inline-emphasis {
+  font-slant: italic
+}
+
+inline-mark {
+  background-color: $mark-color
+}
+
+inline-citation {
+  font-slant: italic
+}
+
+inline-code : @code {
+  // Nothing else to set here, since it inherits from @code
+}
+
+inline-link {
+  underline: none
+
+  font-color: $black
+  background-color: $link-color
+
+  // Good thing we defined readable colors
+}
+
+inline-comment {
+  visibility: hidden
+  // kills comments
+}
+
+inline-delete {
+  visibility: hidden
+  // deletes deletions
+}
+
+inline-annotation {
+  footnote-visibility: hidden
+}
+
+inline-annotation:anchor {
+  background-color: none
+}
+
+inline-raw {
+  visibility: hidden
+  // kills raw source
+}
+
+inline-footnote paragraph {
+  first-line-indent: 0pt
+  // Do not indent paragraph in footnotes
+}
+
+
+inline-annotation paragraph {
+  first-line-indent: 0pt
+  // Do not indent paragraph in endnotes
+}
+
+
+
+//
+// Ulysses specific stuff
+// By default, we are hiding tags (##) etc.
+//
+
+ulysses-tag {
+  visibility: hidden
+}
+
+ulysses-whitespace {
+  visibility: hidden
+}
+
+ulysses-escape-character {
+  visibility: hidden
+}
