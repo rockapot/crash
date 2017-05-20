@@ -4,10 +4,21 @@
 <dict>
 	<key>childOrder</key>
 	<array/>
+	<key>countingGoal</key>
+	<dict>
+		<key>counterIdentifier</key>
+		<string>words</string>
+		<key>targetResult</key>
+		<integer>20000</integer>
+		<key>type</key>
+		<string>at_least</string>
+	</dict>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
 		<dict/>
+		<key>countingGoal</key>
+		<real>516958188.96424598</real>
 		<key>sheetClusters</key>
 		<dict>
 			<key>About.txt</key>
@@ -204,6 +215,11 @@
 		<dict>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 			<integer>1</integer>
+		</dict>
+		<key>countingGoal</key>
+		<dict>
+			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+			<integer>8</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
