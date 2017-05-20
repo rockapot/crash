@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countingGoal</key>
+	<dict>
+		<key>counterIdentifier</key>
+		<string>words</string>
+		<key>targetResult</key>
+		<integer>20000</integer>
+		<key>type</key>
+		<string>at_least</string>
+	</dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>countingGoal</key>
+		<real>517011969.80185503</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Hour 00 - Crash.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.01497298</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Hour 01.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.01533502</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>Hour 04.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.01517302</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Hour 06.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.02192998</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>Hour 13 - Sara.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.02724397</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>Hour 13 - Survivors.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.02692002</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>Hour 14 - David.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.02675402</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>Interlude (Midia).md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517011921.03371</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Hour 00 - Crash.md</string>
+			<string>Hour 01.md</string>
+			<string>Hour 04.md</string>
+			<string>Hour 06.md</string>
+		</array>
+		<array>
+			<string>Hour 13 - Survivors.md</string>
+			<string>Hour 13 - Sara.md</string>
+		</array>
+		<array>
+			<string>Hour 14 - David.md</string>
+		</array>
+		<array>
+			<string>Interlude (Midia).md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>countingGoal</key>
+		<dict>
+			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+			<integer>7</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
