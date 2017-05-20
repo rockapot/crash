@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array/>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict/>
+		<key>sheetClusters</key>
+		<dict>
+			<key>About.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516917246.00582099</real>
+				<key>lastModification</key>
+				<real>516917262.594396</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>Contents.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516917245.98910201</real>
+				<key>lastModification</key>
+				<real>516917262.59439701</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>Hour 00 - Crash.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917550.47210801</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
+			<key>Hour 01.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917557.86426699</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>35</integer>
+				</dict>
+			</dict>
+			<key>Hour 04.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917550.47210997</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
+			<key>Hour 06.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917550.47211099</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
+			<key>Hour 13 - Sara.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917416.16724998</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>24</integer>
+				</dict>
+			</dict>
+			<key>Hour 13 - Survivors.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917365.53720999</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>18</integer>
+				</dict>
+			</dict>
+			<key>Hour 14 - David.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917390.92891198</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>Interlude (Midia).md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516917398.68119299</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>22</integer>
+				</dict>
+			</dict>
+			<key>chapter1.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516917246.079072</real>
+				<key>lastModification</key>
+				<real>516917262.59439999</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>chapter2.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516917246.07952899</real>
+				<key>lastModification</key>
+				<real>516917262.59439898</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>chapter3.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516917246.00510401</real>
+				<key>lastModification</key>
+				<real>516917262.59439802</real>
+				<key>version</key>
+				<dict>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>About.txt</string>
+		</array>
+		<array>
+			<string>Contents.txt</string>
+		</array>
+		<array>
+			<string>chapter3.txt</string>
+		</array>
+		<array>
+			<string>chapter2.txt</string>
+		</array>
+		<array>
+			<string>chapter1.txt</string>
+		</array>
+		<array>
+			<string>Hour 00 - Crash.md</string>
+			<string>Hour 01.md</string>
+			<string>Hour 04.md</string>
+			<string>Hour 06.md</string>
+		</array>
+		<array>
+			<string>Hour 13 - Survivors.md</string>
+			<string>Hour 13 - Sara.md</string>
+		</array>
+		<array>
+			<string>Hour 14 - David.md</string>
+		</array>
+		<array>
+			<string>Interlude (Midia).md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+			<integer>36</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
