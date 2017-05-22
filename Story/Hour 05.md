@@ -1,4 +1,4 @@
-### Hour 06
+### Hour 05
 All the junior engineers set about reviving the hold’s atmosphere pumps to deliver heat. He dangled upside-down on an overhead line with four others, jumpstarting the cylindrical units big as moons in the sky. After forty-five minutes of dizzying height all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted into their headsets.
 “They online?” came her voice yelling hard over the wind.
 “They’re on the grid. Come on in, you earned your pay.”
