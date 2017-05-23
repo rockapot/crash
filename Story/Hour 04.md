@@ -11,17 +11,20 @@ They did not. He started to tell their story but she told it better. As she spok
 “Everything went dark like a breaker tripped. There were only handheld lights and chemical overheads. Corridors spun and spun in microgravity. The air was thick like soup. The pumps. You couldn’t hear the atmosphere pumps. Complete silence for the first time in four years. It was maddening. We climbed for what felt like miles and miles. Found a working hopper and pushed off together.”
 They were mostly taciturn except to relay their own meager accounts of the day. Every light in the ship’s atrium went out at once. Interior structures turned to monoliths hanging dead, studded with points of emergency lights like campfires. Anyone caught in an open-air section floated away helplessly wiggling their limbs. The pods didn’t work. Only those who found their way to some kind of auxiliary craft survived.
 ---- 
-Soon they learned that two engineers had found the hold early in Nor’s daycycle and hotwired a personal transmitter to its spire for continuous broadcast. Being the seniormost noncommissioned officers they also took duty and directed salvage operations.
-Survival gear was plentiful, as were emergency blankets. *Nereid* had been well-equipped to fight the cold. Donning this gear the engineers hauled out the worst of the wreckage. There were prefabricated settlements intended for planetside use intact in the rear. They considered setting a unit up but quickly determined that the structure would not have been sound in the ice or snow or the metal of the deck. But the parts were useful as scaffolding to erect dividers and screens, and a primitive set of windblocking corridors along the maw. The gel in the hold’s power relays provided an emergency means of combustion and they set about arranging barrels of blue flame and metal crates to stave off the elements. It was sinful to burn it in this manner, he thought. So many megajoules wasted.
+They worked alongside the other juniors, hauling inventory for a bit, then trying to regenerate the power cells within the hold. He watched her stick her torso down over a section of grating removed from the deck. The bob of her hair, pulled into a comet-tail. The way the boys hovered around her.
 ---- 
-They worked alongside the other juniors, hauling inventory for a bit, then trying to regenerate the power cells within the hold. He watched her stick her torso down over a section of grating removed from the deck. The bob of her hair, pulled into a comet-tail. 
-During a smoke break by the maw he pulled her aside to gaze at the stark greying world.
-“?” he asked.
+Soon they learned that two engineers had found the hold early in Nor’s daycycle and hotwired a personal transmitter to its spire for continuous broadcast. Being the seniormost noncommissioned officers they also took duty and directed salvage operations.
+Survival gear was plentiful, as were emergency blankets. *Nereid* had been well-equipped to fight the cold. Donning this gear the engineers hauled out the worst of the wreckage. There were prefabricated settlements intended for planetside use intact in the rear. They considered setting a unit up but quickly determined that the structure would not have been sound in the ice or snow or the metal of the deck. But the parts were useful as scaffolding to erect dividers and screens, and a primitive set of windblocking corridors along the maw. 
+The gel in the hold’s power relays provided an emergency means of combustion and they set about arranging barrels of blue flame and metal crates to stave off the elements. It was sinful to burn it in this manner, he thought. So many megajoules wasted.
+---- 
+During a smoke break he found her by the maw gazing out at the stark greying world. He’d seen that look before, back in the Mother-city and the Scrapyards and finally the launchpad at Oth.  A mixture of hope and contemplation of suicide.
+“They would have been happy for us,” he said.
 She accepted the burning cigarette but it went out by the time she brought it to her lips. She shook her head. 
-“Such is fate,” she replied. “We knew it couldn’t go on forever.”
-“Really?”
+“Such is fate,” she replied.
+“I like to think it didn’t turn out so bad.”
+“No, it didn’t.”
 She sheltered the cigarette with one hand and brought it back to life. He leaned on a precarious railing.
-“,” she said.
-“.”
-“.”
+“In fact,” she said, “it turned out as good as I could have hoped.”
+“”
+“We’ll never escape. All we can do is bide our time and live well.”
 She tossed the cigarette into the void outside and retreated into the hold.
