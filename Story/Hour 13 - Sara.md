@@ -40,16 +40,16 @@ Em’s tongue turned to stone. Her knowledge of Han failed her. Stories from her
 “What?” Sara asked.
 “You say you’ve never had work done.”
 “What do you mean? What did you see?”
-“Asha...”
+“Asha . . .”
 “Don’t call me that!”
 And the lantern carved canyons across Sara’s young face as Em brought it back before them.
 “You’re mechanized on the inside too. Your shoulder, your ribs. Inside your head.”
-“Inside...” She looked down to her right shoulder, craned her neck, but the angle was impossible and the light too feeble. She snapped her head back towards Em and shook the disfigured cylinder before her face. “More of this?”
+“Inside . . .” She looked down to her right shoulder, craned her neck, but the angle was impossible and the light too feeble. She snapped her head back towards Em and shook the disfigured cylinder before her face. “More of this?”
 “Yes.”
 “Everywhere?”
 “I don’t know.”
 “You don’t *know?*” Sara’s eyes grew and her teeth were white in the lanternflame. She looked around in the black but the crates blocked her line of sight to all but the tallest scaffolds. All around she searched as though looking for help, a second opinion, relief from this madwoman medic.
-“I’m sorry, I... From what I could see, at least inside your chest. You didn’t know?”
+“I’m sorry, I . . . From what I could see, at least inside your chest. You didn’t know?”
 “How the fuck would I know?”
 “I’m sorry, I—”
 “How much of me is gone?”
