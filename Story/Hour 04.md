@@ -29,9 +29,9 @@ He found her topside by the spire overlooking the edge of the maw. Her gaze focu
 “Oh god.”
 “We thought we could escape, but we couldn’t.”
 “Oh god.”
-He caught himself backing away from her. He lit a cigarette.
-“We have to tell someone.” He took a drag and passed it to her.
-She accepted it but it went out before she brought it to her lips. She shook her head. 
+He caught himself backing away from her and stopped himself.
+“We have to tell someone.” There was a pack of Lucky Sevens in his flight jacket. Maybe the last pack on the whole damn planet. He lit one and took a drag then passed it to her.
+She accepted it but it went out before she brought it to her lips.
 “Such is fate,” she replied.
 “Are you sure what you saw?”
 “Yes.”
