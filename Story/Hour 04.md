@@ -1,7 +1,8 @@
 ### Hour 04
-The juniors set about reviving the hold’s atmosphere pumps to deliver heat. He dangled upside-down on an overhead line with four others, jumpstarting the cylindrical units big as moons in the sky. Wind turned their blankets into sails. The deck so far away that the mesh became a dizzy blur. Don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
-After forty-five minutes all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted into their headsets.
-“They online?” came her voice yelling hard over the wind.
+Over sixty survivors. Half of them able-bodied.
+He dangled inverted on overhead lines with four other juniors, jumpstarting the cylindrical atmosphere pumps big as moons in the sky. The deck was a dizzy blur, a pastiche of bloody strokes dark and angry around the makeshift triage ward. Blood on the blankets and on the curtains and spreading to the boots and clothing of injured and uninjured alike. Don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
+After forty-five minutes of work all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted and cheered.
+“They online?” came her voice over the headset, yelling hard over the wind.
 “They’re on the grid. Come on in, you earned your pay.”
 “Roger.”
 They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates along the entrance. 

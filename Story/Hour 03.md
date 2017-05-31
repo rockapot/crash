@@ -24,5 +24,5 @@ He stared at her.
 Everything electric went out at once. Interior structures turned to dead monoliths, studded with points of emergency lights like campfires. Anyone caught in an open-air section carried away as though by some divine hand. The pods didn’t work. Only those who found their way to some kind of auxiliary craft survived. 
 Nobody knew the cause of *Nereid*’s downfall or whether the cause led to any imminent danger. There was only the trickle of information from incoming survivors and it wasn’t nearly enough to piece together what happened. They could only sit around haggardly sifting through the wreckage and warming themselves with the burning guts of the ship. 
 ---- 
-A low-ranking crewman perched by the radio cupped the headset tightly to his head. He shouted and all twenty-odd faces turned to face him.
-*Contact!*
+A low-ranking crewman perched by the radio cupped the headset tightly to his head. He shouted *contact!* and all twenty-odd faces rose to attention.
+Within the hour, more survivors started to arrive by twos or threes. More builders and craftsmen. Support staff. Then a detail of medics, then dragoons bearing wounded on makeshift stretchers of their own watchmen’s pikes and cargo netting.
