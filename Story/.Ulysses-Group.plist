@@ -37,26 +37,28 @@
 					<integer>16</integer>
 				</dict>
 			</dict>
-			<key>Hour 04.md</key>
+			<key>Hour 03.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517011921.01517302</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>3</integer>
-				</dict>
-			</dict>
-			<key>Hour 05.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>517171471.156973</real>
+				<real>517896398.68241298</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 					<integer>17</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>7</integer>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>Hour 04.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517896401.18998301</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>17</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>11</integer>
 				</dict>
 			</dict>
 			<key>Hour 13 - Sara.md</key>
@@ -124,8 +126,8 @@
 		</array>
 		<array>
 			<string>Hour 01 - The Hold.md</string>
+			<string>Hour 03.md</string>
 			<string>Hour 04.md</string>
-			<string>Hour 05.md</string>
 		</array>
 		<array>
 			<string>Hour 14 - Incoming.md</string>
@@ -151,7 +153,7 @@
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 			<integer>17</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-			<integer>8</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 </dict>
