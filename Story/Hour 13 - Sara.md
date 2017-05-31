@@ -1,10 +1,10 @@
 ---- 
 The girl lay unconscious in the corner of the hold, her head a mass of blood and long black hair propped up against the bulkhead. She wore the high-visibility orange jumpsuit of a flight deck worker. The jumpsuit was shredded in places where it hung on her body like strings of eviscerated flesh. Em approached and kneeled. The girl’s left arm was delicate metal and ended immediately above her elbow. She had no right arm at all and her uniform was torn at the shoulder but absent of blood. A missing implant? Surprisingly little blood on the rest of her despite the state of her clothing.
-Em held the lantern to the girl’s milky face and brushed her hair aside carefully. The girl was Han; her eyes and cheekbones of unmistakable ethnicity. A delicate face: young, round, and hardy. Not yet leathery like middle-aged Han women bitten by decades of northern frost. She was small in stature, a teenager, maybe a year or two younger than Em herself. Her partial left arm glowed a dull orange. Without thinking Em touched the arm near the cross-section where it ended and it seared the pads of her fingers.
+Em held the lantern to the girl’s milky face and brushed her hair aside carefully. The girl was Han; her eyes and cheekbones of unmistakable ethnicity. A delicate face: young, round, and hardy. Not at all like the leathery skin of middle-aged Han women bitten by decades of northern frost. She was small in stature, a teenager, maybe a year or two younger than Em herself. Her partial left arm glowed a dull orange. Without thinking Em touched the arm near the cross-section where it ended and it seared the pads of her fingers.
 She screamed and jerked her burned fingers back, waved them in the frigid air, then stuck them in her mouth before holding them to the cold metal deck.
 A shuddering breath blew into her face. She looked up at the girl, who looked back wan and frightened. One eye was large and dark and the other swollen from the contusion that had spread from her head wound. Within her countenance was a mixture of fear and defiance like a bird caught in a fist.
 Em set the lantern down. The girl focused her eyes on Em and then swiveled her head about the darkened hold. She looked down at herself, at the stump of her metal arm, and let out a raspy wail, pushing herself against the bulkhead with her legs. She swung her left arm helplessly and clanged it into the metal behind her. Then she tried to scamper backwards to raise herself into a standing position, but her boots found no purchase and she came back onto the deck with a throaty half-scream.
-Em stared dumbly, her thoughts nothing but noise. She crouched by her lantern as the girl fell into a kneeling position in the corner, shrinking against the bulkhead, eyeing Em defiantly with gritted teeth. 
+Em stared dumbly, her thoughts nothing but noise. She crouched by her lantern as the girl sat in the corner, shrinking against the bulkhead, eyeing Em defiantly with gritted teeth. 
 “Don’t move,” Em said.
 The girl looked to her, then looked about herself once again, drawing deep breaths but no longer in panic.
 “You’re hurt. Try not to move.”
@@ -20,7 +20,7 @@ The girl looked at her, paused for a moment, then mouthed an empty syllable befo
 “What the fuck did you *do to me?*”
 “I don’t—”
 A beacon pierced the darkness from beyond the nest of blankets and containers. Its light was sudden and strong. Em’s long shadow materialized across the girl, whose clothing grew bright as though aflame. All else became monochrome by comparison. A nosebleed on her face and one of her areolae flashed for an instant in the intruding light before she ducked into Em’s shadow. 
-Out of instinct Em spun around to shelter the girl, ready to berate or cajole, her words lining up in her head: she had another five, she was helping this kid, what did it matter anyways.
+Out of instinct Em spun around to shelter the girl, ready to berate or cajole, her words lining up in her head: she had another five minutes, she was helping this kid, what did it matter anyways.
 Instead when she turned she saw that light descend from outside beyond the mouth of the hold, hovering in the sky. A searchlight from a transport in the process of touchdown, the whine of its landing thrusters audible, kicking up clouds of steam and snow. It set beyond the skyline of boxes and scaffolds and crewmen perched in the rafters turned to watch its descent, their hair aglow in a white halo. Already a garrison of voices and rumbling of boots headed outbound with a quickened pulse.
 “Shit,” Em muttered. More survivors. Soon they’d call for all the medics. Soon they’d call for her. But until then, the girl would be her charge.
 “You’re all right. You’re safe. I’m a medic.”
@@ -44,11 +44,11 @@ Em’s tongue turned to stone. Her knowledge of Han failed her. Stories from her
 “Don’t call me that!”
 And the lantern carved canyons across Sara’s young face as Em brought it back before them.
 “You’re mechanized on the inside too. Your shoulder, your ribs. Inside your head.”
-“Inside . . .” She looked down to her right shoulder, craned her neck, but the angle was impossible and the light too feeble. She snapped her head back towards Em and shook the disfigured cylinder before her face. “More of this?”
+“Inside . . .” She looked down to her right shoulder, craned her neck, but the angle was impossible and the light too feeble. She snapped her head back towards Em and shook the disfigured cylinder of her left arm. “More of this?”
 “Yes.”
 “Everywhere?”
 “I don’t know.”
-“You don’t *know?*” Sara’s eyes grew and her teeth were white in the lanternflame. She looked around in the black but the crates blocked her line of sight to all but the tallest scaffolds. All around she searched as though looking for help, a second opinion, relief from this madwoman medic.
+“You don’t *know?*” Sara’s eyes grew and her teeth were white in the lanternflame. She looked around in the black but the crates blocked her line of sight to all but the tallest scaffolds. All around she searched as though looking for help, a second opinion, relief from this madwoman before her.
 “I’m sorry, I . . . From what I could see, at least inside your chest. You didn’t know?”
 “How the fuck would I know?”
 “I’m sorry, I—”
@@ -57,7 +57,7 @@ And the lantern carved canyons across Sara’s young face as Em brought it back 
 “*Tell me!*”
 Em closed her eyes. Blessed mother what could she say? Was there a protocol for this?
 “Your upper torso. Likely your heart. Your lungs.” And she added in a whisper: “Maybe more.”
-Sara sat back and cried unashamedly and Em felt her own tears coming. Footfalls of a formation approached from behind her, the rattle of a drip line on the grated deck. She took a bandage—no, two, three—and leaned forward and wiped the girl’s face. 
+Sara sat back with eyes stunned and watery and Em felt her own tears coming. Footfalls of a formation approached from behind her, the rattle of a drip line on the grated deck. She took a bandage—no, two, three—and leaned forward and wiped tears from the girl’s face. 
 *Mother Star, if you’re there, if you’re merciful, just freeze time, let me stay with this one. She’s not dying but look at her she’s naked and she’s terrified. Mother Star please.*
 The spotlight returned, bright from behind Em, but this time Sara paid it no mind.
 “Em? Is that you?” said a male voice on the other side of the beacon.
@@ -72,7 +72,7 @@ The light swung away. The man left running to the maw and Em turned to Sara agai
 “Where are you going?”
 “They found more survivors.”
 “Of what?”
-“*Nereid.* Planetfall.” She considered Sara’s bewildered expression. “You don’t remember the crash at all?”
+“*Nereid.* Planetfall.” She considered Sara’s bewildered expression. “You don’t remember the crash?”
 “Crash?”
 “We lost power and burned up at the start of daywatch. There was a general evac. No?”
 Sara shook her head. Traffic nearby grew noisy and the transport outside started to cycle down her engines. Em pulled away.
