@@ -30,8 +30,7 @@ He found her topside by the spire overlooking the edge of the maw. Her gaze focu
 “We thought we could escape, but we couldn’t.”
 “Oh god.”
 He caught himself backing away from her and stopped himself.
-“We have to tell someone.” There was a pack of Lucky Sevens in his flight jacket. Maybe the last pack on the whole damn planet. He lit one and took a drag then passed it to her.
-She accepted it but it went out before she brought it to her lips.
+“We have to tell someone.” There was a pack of Lucky Sevens in his flight jacket. Maybe the last pack on the whole damn planet. He lit one and took a drag then passed it to her. She accepted it but it went out before she brought it to her lips.
 “Such is fate,” she replied.
 “Are you sure what you saw?”
 “Yes.”
@@ -40,4 +39,4 @@ She accepted it but it went out before she brought it to her lips.
 “Don’t do it.”
 She turned to him cigarette dead in her mouth.
 “Don’t do it,” he repeated. “You promised.”
-She looked to the precipice before her. A mist had started to roll in, a great terrestrial cloud that hung over the world below. In the space of several blinks she stared back and forth as though considering possibilities, then tossed the cigarette into the void. Together they retreated down the service rungs. Before them passed single gargantuan letters of the ship’s marking, paint and rust caked on the deck from the centuries. Underneath the mist roiled and churned and gave the illusion that there was no ground at all.
+She looked to the precipice before her. A mist had started to roll in, a great terrestrial cloud that hung over the world below. In the space of several blinks she stared back and forth as though considering possibilities, then tossed the cigarette into the void. Together they retreated down the service rungs. Before them passed a single gargantuan letter of the ship’s markings, paint and rust caked on the deck from the centuries. Underneath the mist roiled and churned and gave the illusion that there was no ground at all.
