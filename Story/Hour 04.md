@@ -17,7 +17,7 @@ He opened the line on his headset. “Five-six Five-six. Front and center.”
 “Alys, where the hell are you?”
 “Alys?”
 ---- 
-He found her topside by a contower overlooking the edge of the maw. Her gaze focused deep in the stark greying world. She’d pulled her goggles off and her mask hung around her throat by its straps. He stood with her on the mottled globe-like hull. Running lights burst to life around them.
+He found her topside by the spire overlooking the edge of the maw. Her gaze focused deep in the stark greying world. She’d pulled her goggles off and her mask hung around her throat by its straps. He stood with her on the mottled globe-like hull as running lights burst to life around them.
 “Alys.”
 “David.”
 “What are you doing? It’s goddamn freezing.”
@@ -36,7 +36,7 @@ She accepted it but it went out before she brought it to her lips. She shook her
 “Are you sure what you saw?”
 “Yes.”
 “How do you know?”
-“I’ll never forget.”
+“I’ll never forget. I saw its eyes and the demon behind them. There’s no escape. We can only live well and bide our time. But in the end it’ll catch us.”
 “Don’t do it.”
 She turned to him cigarette dead in her mouth.
 “Don’t do it,” he repeated. “You promised.”
