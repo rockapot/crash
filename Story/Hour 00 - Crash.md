@@ -34,7 +34,7 @@ She looked at him and he didn’t look away. Her lips were taut, her brow furrow
 “Alys—”
 “You goddamn promised!”
 And then she put her arm on his and spoke gently.
-“You promised.”
+“Come on.”
 As they set off with the wind and snow at their backs, he stopped for one last look at the hunkered form behind them. How like a perfect trapezoid it seemed, pointed and sleek like a scowling beast. She asked him what he was looking at.
 “This is unfriendly territory. We ought to blow the hopper.”
 “With what? No one’s here!”
