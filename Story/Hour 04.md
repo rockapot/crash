@@ -1,12 +1,12 @@
 ### Hour 04
 Over sixty survivors. Half of them able-bodied.
-He dangled inverted on overhead lines with four other juniors, jumpstarting the cylindrical atmosphere pumps big as moons in the sky. The deck was a dizzy blur, a pastiche of bloody strokes dark and angry around the makeshift triage ward. Blood on the blankets and on the curtains and spreading to the boots and clothing of injured and uninjured alike. Don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
+He dangled inverted on an overhead line with four other juniors hotwiring the cylindrical atmosphere pumps big as moons in the sky. The deck was a dizzy blur, a pastiche of bloody strokes dark and angry encircling the makeshift triage ward. Blood on the blankets and blood on the curtains and seeping through the sheets of the writhing injured. Medics calling nonsense to each other, blood on them too. Don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
 After forty-five minutes of work all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted and cheered.
 “They online?” came her voice over the headset, yelling hard over the wind.
 “They’re on the grid. Come on in, you earned your pay.”
 “Roger.”
-They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates along the entrance. 
-One of the noncomm engineers gathered all their gear and counted it up, then called him over along with another junior.
+They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids, he thought. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates along the entrance. 
+One of the noncomm engineers gathered all their gear and counted it up, then called him over along with the lanky one.
 “You’re short one set of tethers and one lancer.”
 “Someone forgot to check in sir?”
 “You tell me.”
@@ -17,14 +17,27 @@ He opened the line on his headset. “Five-six Five-six. Front and center.”
 “Alys, where the hell are you?”
 “Alys?”
 ---- 
-He found her by a contower by the maw gazing out at the stark greying world. He’d seen that look before, back in the Mother-city and the Scrapyards and finally the launchpad at Oth.  A mixture of hope and contemplation of suicide.
-“They would have been happy for us,” he said.
-She accepted the burning cigarette but it went out by the time she brought it to her lips. She shook her head. 
+He found her topside by a contower overlooking the edge of the maw. Her gaze focused deep in the stark greying world. She’d pulled her goggles off and her mask hung around her throat by its straps. He stood with her on the mottled globe-like hull. Running lights burst to life around them.
+“Alys.”
+“David.”
+“What are you doing? It’s goddamn freezing.”
+“I saw it, David.”
+“What?”
+“Out here. Flying high up. It came at me.”
+“Bloody hell, what did you see?”
+“You know what. It’s here. It followed us here.”
+“Oh god.”
+“We thought we could escape, but we couldn’t.”
+“Oh god.”
+He lit a cigarette.
+“We have to tell someone.” He took a drag and passed it to her.
+She accepted it but it went out before she brought it to her lips. She shook her head. 
 “Such is fate,” she replied.
-“I like to think it didn’t turn out so bad.”
-“No, it didn’t.”
-She sheltered the cigarette with one hand and brought it back to life. He leaned on a precarious railing.
-“In fact,” she said, “it turned out as good as I could have hoped.”
-“”
-“We’ll never escape. All we can do is bide our time and live well.”
-She tossed the cigarette into the void outside and retreated into the hold.
+“Are you sure what you saw?”
+“Yes.”
+“How do you know?”
+“I’ll never forget.”
+“Don’t do it.”
+She turned to him cigarette dead in her mouth.
+“Don’t do it,” he repeated. “You promised.”
+She looked at the precipice before her, then looked at him. She considered the possibilities in the space of several blinks, then tossed the cigarette into the void. Together they retreated down the service rungs.
