@@ -11,17 +11,33 @@ Two bearded crewmen looked down at them over the lip of the deck, from among the
 One of the bearded men knelt with them, saying brother, sister, welcome. You found us. 
 ---- 
 They were given steaming tin cups with ration cubes dissolved in water. He held his in both hands like a sacrament and sipped. A salty illusion of food. They piled on the blankets until their shivering was under control but he still could not feel his feet.
-Three junior engineers sat with them. Their detail worked reclamation on the flight deck. Two men, one lanky, one fat, and one woman with short acid-white hair. Second year, second year, third year, they introduced themselves. And you? We’re both third, she answered.
-The lanky second-year asked if they knew any more about what had happened. They did not. She told their story, bobbing her head, her hair pulled into a comet-tail. As she spoke the collection around them nodded and looked to each other expressionlessly as though in a trance.
+The engineers sat with them in the vast wreckage of the deck. Three of them juniors and one of them the bearded noncomms who helped to pulled them up. The noncomm explained that he was one of two engineers had found the hold early in Nor’s daycycle. They had hotwired a personal transmitter to its spire for continuous broadcast.
+Survival gear was plentiful, as were emergency blankets. *Nereid* had been well-equipped to fight the cold. There were prefabricated settlements intended for the first planetside colony. They considered setting a unit up but quickly determined that the structure would not have been sound in the ice or snow or the metal of the deck. But the parts were useful as scaffolding to erect dividers and screens, and a primitive set of windblocking corridors along the maw. 
+The gel in the hold’s power relays provided an emergency means of combustion and they arranged barrels of blue flame and metal crates to stave off the elements. But it was sinful to burn it in this manner. So many megajoules wasted.
+The junior engineers had arrived not long before. They worked reclamation on the flight deck. Two men, one lanky, one fat, and one woman with short acid-white hair. Second year, second year, third year, they introduced themselves. And you? We’re both third, she answered.
+The lanky second-year asked if they knew any more about what had happened. They did not. She told their story, the comet-tail of her hair bobbing along as she spoke. The collection around them nodded and looked to each other expressionlessly as though in a trance.
 *Everything went dark like a breaker tripped. There were only handheld lights and chemical overheads. Corridors spun and spun in microgravity. The air was thick like soup. The pumps. You couldn’t hear the atmosphere pumps. It was so quiet I thought I’d go crazy. We climbed for what felt like miles and miles. Found a working hopper and shoved off together.*
 How’d you launch without the control systems?
 *Sidewinders*, she answered. *Through the bay doors.*
 He stared at her.
-*It took us five or six volleys.* She nudged him. *He needs a few tries to shoot straight.* And she let it sit for a moment, taking in their astonished faces and then letting them in on it. The lanky one shook his head grinning with his arms on his haunches and said oh shit and the rest of them relayed their own similar accounts of the day. Everything electric going out at once. Interior structures turning to dead monoliths, studded with points of emergency lights like campfires. Anyone caught in an open-air section carried away as though by some divine hand. The pods didn’t work. Only those who found their way to some kind of auxiliary craft survived. Nobody knew the cause of *Nereid*’s downfall or whether the cause led to any imminent danger. There was only the trickle of information from the radio and from incoming survivors
+*It took us five or six volleys.* She nudged him. *He needs a few tries to shoot straight.* And she let it sit for a moment, taking in their astonished faces and then broke into a cheeky grin. Even the noncomm shook his head grinning with his arms on his haunches and said oh shit and the rest of them relayed their own similar accounts of the day. 
+Everything electric went out at once. Interior structures turned to dead monoliths, studded with points of emergency lights like campfires. Anyone caught in an open-air section carried away as though by some divine hand. The pods didn’t work. Only those who found their way to some kind of auxiliary craft survived. Nobody knew the cause of *Nereid*’s downfall or whether the cause led to any imminent danger. There was only the trickle of information from the radio and from incoming survivors and it wasn’t nearly enough to piece together what happened.
 ---- 
-They worked alongside the other juniors, hauling inventory for a bit, then trying to get the atmosphere pumps working within the hold. Soon they learned that two engineers had found the hold early in Nor’s daycycle and hotwired a personal transmitter to its spire for continuous broadcast. Being the seniormost noncommissioned officers they also took duty and directed salvage operations.
-Survival gear was plentiful, as were emergency blankets. *Nereid* had been well-equipped to fight the cold. Donning this gear the engineers hauled out the worst of the wreckage. There were prefabricated settlements intended for planetside use intact in the rear. They considered setting a unit up but quickly determined that the structure would not have been sound in the ice or snow or the metal of the deck. But the parts were useful as scaffolding to erect dividers and screens, and a primitive set of windblocking corridors along the maw. 
-The gel in the hold’s power relays provided an emergency means of combustion and they set about arranging barrels of blue flame and metal crates to stave off the elements. It was sinful to burn it in this manner, he thought. So many megajoules wasted.
+The juniors set about reviving the hold’s atmosphere pumps to deliver heat. He dangled upside-down on an overhead line with four others, jumpstarting the cylindrical units big as moons in the sky. Wind turned their blankets into sails. The deck so far away that the mesh became a dizzy blur. Don’t look down. Look outside if you have to, it’s the same right side up as upside down. After forty-five minutes all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted into their headsets.
+“They online?” came her voice yelling hard over the wind.
+“They’re on the grid. Come on in, you earned your pay.”
+“Roger.”
+They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates along the entrance. 
+One of the noncomm engineers gathered all their gear and counted it up, then called him over along with another junior.
+“You’re short one set of tethers and one lancer.”
+“Someone forgot to check in sir?”
+“You tell me.”
+“Who had a lancer?” he asked the other junior.
+“Five-six. She was running the line outside.”
+He opened the line on his headset. “Five-six Five-six. Front and center.”
+“Five-six, you respond.”
+“Alys, where the hell are you?”
+“Alys?”
 ---- 
 During a smoke break he found her by the maw gazing out at the stark greying world. He’d seen that look before, back in the Mother-city and the Scrapyards and finally the launchpad at Oth.  A mixture of hope and contemplation of suicide.
 “They would have been happy for us,” he said.
