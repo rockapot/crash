@@ -6,7 +6,7 @@ After forty-five minutes of work all the pumps hummed in chorus and blasted air 
 “They’re on the grid. Come on in, you earned your pay.”
 “Roger.”
 They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids, he thought. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates for the medics. 
-One of the noncomm engineers gathered all their gear and counted it up, then called him over along with the lanky one.
+One of the noncom engineers gathered all their gear and counted it up, then called him over along with the lanky one.
 “You’re short one set of tethers and one lancer.”
 “Someone forgot to check in sir?”
 “You tell me.”
@@ -40,4 +40,4 @@ She accepted it but it went out before she brought it to her lips.
 “Don’t do it.”
 She turned to him cigarette dead in her mouth.
 “Don’t do it,” he repeated. “You promised.”
-She looked to the precipice before her, then looked at him. She considered the possibilities in the space of several blinks, then tossed the cigarette into the void. Together they retreated down the service rungs.
+She looked to the precipice before her. A mist had started to roll in, a great terrestrial cloud that hung over the world below. In the space of several blinks she stared back and forth as though considering possibilities, then tossed the cigarette into the void. Together they retreated down the service rungs. Before them passed single gargantuan letters of the ship’s marking, paint and rust caked on the deck from the centuries. Underneath the mist roiled and churned and gave the illusion that there was no ground at all.
