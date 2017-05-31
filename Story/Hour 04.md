@@ -5,7 +5,7 @@ After forty-five minutes of work all the pumps hummed in chorus and blasted air 
 “They online?” came her voice over the headset, yelling hard over the wind.
 “They’re on the grid. Come on in, you earned your pay.”
 “Roger.”
-They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids, he thought. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates along the entrance. 
+They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids, he thought. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates for the medics. 
 One of the noncomm engineers gathered all their gear and counted it up, then called him over along with the lanky one.
 “You’re short one set of tethers and one lancer.”
 “Someone forgot to check in sir?”
@@ -29,15 +29,15 @@ He found her topside by the spire overlooking the edge of the maw. Her gaze focu
 “Oh god.”
 “We thought we could escape, but we couldn’t.”
 “Oh god.”
-He lit a cigarette.
+He caught himself backing away from her. He lit a cigarette.
 “We have to tell someone.” He took a drag and passed it to her.
 She accepted it but it went out before she brought it to her lips. She shook her head. 
 “Such is fate,” she replied.
 “Are you sure what you saw?”
 “Yes.”
-“How do you know?”
+“How?”
 “I’ll never forget. I saw its eyes and the demon behind them. There’s no escape. We can only live well and bide our time. But in the end it’ll catch us.”
 “Don’t do it.”
 She turned to him cigarette dead in her mouth.
 “Don’t do it,” he repeated. “You promised.”
-She looked at the precipice before her, then looked at him. She considered the possibilities in the space of several blinks, then tossed the cigarette into the void. Together they retreated down the service rungs.
+She looked to the precipice before her, then looked at him. She considered the possibilities in the space of several blinks, then tossed the cigarette into the void. Together they retreated down the service rungs.
