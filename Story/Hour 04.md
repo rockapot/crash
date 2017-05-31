@@ -1,7 +1,7 @@
 ### Hour 04
 The wind had stopped and visibility was clear. She sighted the other party first, still dots in the wilderness five hundred meters off. Only the latest in the collection of miracles that was her. They hid in cover of snow and bore witness together. Their vantage point was poor. “Wait here,” he said, and she nodded weakly, without energy.
 The ground was covered in gentle moguls which he used to mask his approach. When he got into position he laid on his stomach and propped himself on his elbows and scoped the unknowns. Snow had found its way into his blankets and a groundshaking chill ran through him. He could barely stabilize the image.
-The newcomers numbered nineteen in total. Husky and large in nonregulation furs and thickly studded surveyor’s pouches. Workers or tradesmen. A few carried scavenged watchmen’s pikes taller than a man with incandescent soul lights still burning at their tips. Four of them smaller, younger, wearing familiar jumpsuits decked out with thermals. One of them maybe female. They sledded metal equipment boxes on a tarp between them. Fellow engineers, perhaps. All of them headed along the bearing of the homing beacon. Likely from *Nereid* given their gear.
+The newcomers numbered nineteen in total. Husky and large in nonregulation furs and thickly studded surveyor’s pouches. Workers or tradesmen. A few carried scavenged watchmen’s pikes taller than a man with incandescent soul lights still burning at their tips. Four of them smaller, younger, wearing familiar jumpsuits decked out with thermals. They sledded metal equipment boxes on a tarp between them. Fellow engineers, perhaps. All of them headed along the bearing of the homing beacon. Likely from *Nereid* given their gear.
 Training his scopes in their direction of travel he found a black structure in the middle of the field nearly a hundred meters long shaped like a maggot with a cornucopia maw at one end. At the maw it was several stories tall. A dorsal cargo hold or landing bay from the looks of the flat bottom. It appeared to have separated and touched down during troposphere entry, carving an icy ravine behind it. The rest of the ship was nowhere in sight.
 When he went back and told her she smiled as though once again filled with spirit. Then she stood and let out a long chattering breath. For an instant he beheld her silhouette against the dead sky and thought of home. She told him he was her good luck charm and led him tightly by the hand. 
 ---- 
@@ -11,7 +11,7 @@ Two bearded crewmen looked down at them over the lip of the deck, from among the
 One of the bearded men knelt with them, saying brother, sister, welcome. You found us. 
 ---- 
 They were given steaming tin cups with ration cubes dissolved in water. He held his in both hands like a sacrament and sipped. A salty illusion of food. They piled on the blankets until their shivering was under control but he still could not feel his feet.
-The engineers sat with them in the vast wreckage of the deck. Three of them juniors and one of them the bearded noncomms who helped to pulled them up. The noncomm explained that he was one of two engineers had found the hold early in Nor’s daycycle. They had hotwired a personal transmitter to its spire for continuous broadcast.
+The engineers sat with them in the vast wreckage of the deck. Three of them juniors and one of them the bearded noncomms who helped to pulled them up. Piles of boxes and barrels arranged in shanties all around. The noncomm explained that he was one of two engineers had found the hold early in Nor’s daycycle. They had hotwired a personal transmitter to its spire for continuous broadcast.
 Survival gear was plentiful, as were emergency blankets. *Nereid* had been well-equipped to fight the cold. There were prefabricated settlements intended for the first planetside colony. They considered setting a unit up but quickly determined that the structure would not have been sound in the ice or snow or the metal of the deck. But the parts were useful as scaffolding to erect dividers and screens, and a primitive set of windblocking corridors along the maw. 
 The gel in the hold’s power relays provided an emergency means of combustion and they arranged barrels of blue flame and metal crates to stave off the elements. But it was sinful to burn it in this manner. So many megajoules wasted.
 The junior engineers had arrived not long before. They worked reclamation on the flight deck. Two men, one lanky, one fat, and one woman with short acid-white hair. Second year, second year, third year, they introduced themselves. And you? We’re both third, she answered.
@@ -21,32 +21,5 @@ How’d you launch without the control systems?
 *Sidewinders*, she answered. *Through the bay doors.*
 He stared at her.
 *It took us five or six volleys.* She nudged him. *He needs a few tries to shoot straight.* And she let it sit for a moment, taking in their astonished faces and then broke into a cheeky grin. Even the noncomm shook his head grinning with his arms on his haunches and said oh shit and the rest of them relayed their own similar accounts of the day. 
-Everything electric went out at once. Interior structures turned to dead monoliths, studded with points of emergency lights like campfires. Anyone caught in an open-air section carried away as though by some divine hand. The pods didn’t work. Only those who found their way to some kind of auxiliary craft survived. Nobody knew the cause of *Nereid*’s downfall or whether the cause led to any imminent danger. There was only the trickle of information from the radio and from incoming survivors and it wasn’t nearly enough to piece together what happened.
----- 
-The juniors set about reviving the hold’s atmosphere pumps to deliver heat. He dangled upside-down on an overhead line with four others, jumpstarting the cylindrical units big as moons in the sky. Wind turned their blankets into sails. The deck so far away that the mesh became a dizzy blur. Don’t look down. Look outside if you have to, it’s the same right side up as upside down. After forty-five minutes all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted into their headsets.
-“They online?” came her voice yelling hard over the wind.
-“They’re on the grid. Come on in, you earned your pay.”
-“Roger.”
-They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates along the entrance. 
-One of the noncomm engineers gathered all their gear and counted it up, then called him over along with another junior.
-“You’re short one set of tethers and one lancer.”
-“Someone forgot to check in sir?”
-“You tell me.”
-“Who had a lancer?” he asked the other junior.
-“Five-six. She was running the line outside.”
-He opened the line on his headset. “Five-six Five-six. Front and center.”
-“Five-six, you respond.”
-“Alys, where the hell are you?”
-“Alys?”
----- 
-During a smoke break he found her by the maw gazing out at the stark greying world. He’d seen that look before, back in the Mother-city and the Scrapyards and finally the launchpad at Oth.  A mixture of hope and contemplation of suicide.
-“They would have been happy for us,” he said.
-She accepted the burning cigarette but it went out by the time she brought it to her lips. She shook her head. 
-“Such is fate,” she replied.
-“I like to think it didn’t turn out so bad.”
-“No, it didn’t.”
-She sheltered the cigarette with one hand and brought it back to life. He leaned on a precarious railing.
-“In fact,” she said, “it turned out as good as I could have hoped.”
-“”
-“We’ll never escape. All we can do is bide our time and live well.”
-She tossed the cigarette into the void outside and retreated into the hold.
+Everything electric went out at once. Interior structures turned to dead monoliths, studded with points of emergency lights like campfires. Anyone caught in an open-air section carried away as though by some divine hand. The pods didn’t work. Only those who found their way to some kind of auxiliary craft survived. 
+Nobody knew the cause of *Nereid*’s downfall or whether the cause led to any imminent danger. There was only the trickle of information from incoming survivors and it wasn’t nearly enough to piece together what happened. They could only sit around haggardly warming themselves with the burning guts of the ship. One crewman remained perched by the radio cupping the headset tightly to his head.
