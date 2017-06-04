@@ -1,23 +1,27 @@
 ### Hour 04
 Over sixty survivors. Half of them able-bodied.
-He dangled inverted on an overhead line with four other juniors hotwiring the cylindrical atmosphere pumps big as moons in the sky. The deck was a dizzy blur, a pastiche of bloody strokes dark and angry encircling the makeshift triage ward. Blood on the blankets and blood on the curtains and seeping through the sheets of the writhing injured. Medics calling nonsense to each other, blood on them too. Don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
-After forty-five minutes of work all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted and cheered.
+He dangled inverted on an overhead line with six other juniors hotwiring the cylindrical atmosphere pumps big as moons in the sky. The deck was a dizzy blur, a pastiche of bloody strokes dark and angry around the makeshift triage ward. Blood on the blankets and blood on the curtains and blood seeping through the sheets of the writhing injured. Medics calling nonsense to each other, blood on them too. Don’t think about that. And don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
+After twenty-five minutes of work all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted and cheered.
 “They online?” came her voice over the headset, yelling hard over the wind.
-“They’re on the grid. Come on in, you earned your pay.”
+“They’re on the grid. Come on in, you earned your grade.”
 “Roger.”
-They set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids, he thought. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates for the medics. 
-One of the noncom engineers gathered all their gear and counted it up, then called him over along with the lanky one.
+The juniors set themselves down and climbed out of their harnesses. Once out they were nothing more than a lot of skinny kids, he thought. Well, most of them. The fat one was with them and he had to set himself down on the deck to undo his gear. The grizzled builders gave them funny looks and thanked them for the heat and went on stacking crates for the medics. 
+One of the noncom engineers gathered all their gear and counted it up, then called him over along with the lanky junior.
 “You’re short one set of tethers and one lancer.”
 “Someone forgot to check in sir?”
 “You tell me.”
 “Who had a lancer?” he asked the other junior.
-“Five-six. She was running the line outside.”
+“Wasn’t that your sister? She was running the line outside.”
 He opened the line on his headset. “Five-six Five-six. Front and center.”
 “Five-six, you respond.”
 “Alys, where the hell are you?”
 “Alys?”
 ---- 
-He found her topside by the spire overlooking the edge of the maw. Her gaze focused deep in the stark greying world. She’d pulled her goggles off and her mask hung around her throat by its straps. He stood with her on the mottled globe-like hull as running lights burst to life around them.
+She’s alive, he reminded himself. He’d know if she were dead. The world would burn and the stars would boil and their tongues would turn to lead. The universe was a closed system that afforded no surprises. Conservation of mass. Entropy. An unstoppable descent into disorder. A girl doesn’t just disappear.
+It was almost dark already. He faced the onslaught of snow like sand and in the machinists’ goggles a blur of distant firestorms clouded the air. Above him a running light blinked dumbly as though it were still attached to a ship. He clunked along the metal behemoth. This was the third time he had circumnavigated the hold and it was getting harder to make his way round the sides and back. Since he went out to look for her crazy ass the storm had resumed and the snowline had pushed its way up the side of the hull by another meter or so.
+Where the fuck are you?
+---- 
+He found her ten meters up topside by the spire overlooking the edge of the maw. Her gaze focused deep in the stark greying world. She’d pulled her goggles off and her mask hung around her throat by its straps. He stood with her on the mottled globe-like hull as running lights burst to life around them.
 “Alys.”
 “David.”
 “What are you doing? It’s goddamn freezing.”
