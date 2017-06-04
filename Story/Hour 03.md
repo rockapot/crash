@@ -7,11 +7,11 @@ When he went back and told her she smiled as though filled anew with spirit. The
 ---- 
 They walked along a wake where flash-melted waves had re-frozen into skyward fingers almost as tall as the hold itself. The waves cast gnarled blue shadows in the shape of some ancient forest. Within the maw, a ruin of girders and jagged metal. Fountains of sparks like fireworks. Along their path a trail of cargo containers, shipping crates, netting, and machinery upended in the ice as though floating in a frozen sea. Footprints leading the way ahead, maybe a dozen or so tracks.
 ---- 
-Two bearded crewmen looked down at them over the lip of the deck, among the pipes and conduits that jutted from an uneven coastline of mesh. They dropped ropes and she climbed first. Her blankets unraveled and flew about like a violent flame engulfing her body. At the top they dragged her up and over by the waist. Perhaps history’s least ceremonial ascendance into salvation. He went next, facing a nest of bulging mechanical guts as he climbed, legs crossed, fist over fist. His arms were weak; feeling all but gone in his digits. If she could make it so could he. After he fell panting onto the deck she came to him and they knelt together. Twenty-strong survivors stood around them in a grove. Men and women, workers and engineers. Their faces hard as though engraved in stone. Even though they had only been marooned a brief time they looked like hell. Grey clothes and bleached faces alike.
+Two bearded crewmen looked down at them over the lip of the deck, among the pipes and conduits that jutted from an uneven coastline of mesh. They dropped ropes and she climbed first. Her blankets unraveled and flew about like a violent flame engulfing her body. At the top they dragged her up and over by the waist. Perhaps history’s least ceremonial ascendance into salvation. He went next, facing a nest of bulging mechanical guts as he climbed, legs crossed, fist over fist. His arms were weak; feeling all but gone in his digits. If she could make it so could he. After he fell panting onto the deck she came to him and they knelt together. Twenty-strong survivors stood around them in a grove. Men and women, builders and engineers. Their faces hard as though engraved in stone. Even though they had only been marooned a brief time they looked like hell. Grey clothes and grey world alike.
 One of the bearded men knelt with them, saying brother, sister, welcome. You found us. 
 ---- 
-They were given steaming tin cups with ration cubes dissolved in water. He held his in both hands like a sacrament and sipped. Only a salty illusion of food but it was all they had. They piled on the blankets until their shivering was under control but he still could not feel his fingers. A draft blew from under the grating of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage. The only light coming from outside, the aft of the deck dark, the middle a land of shadows.
-Piles of boxes and barrels were arranged in shanties all around. Barrels of blue flame burned with gel in the hold’s power relays. A good means of combustion in a pinch but it was sure sinful to burn it in this manner. So many megajoules wasted.
+They were given steaming tin cups with ration cubes dissolved in water. He held his in both hands like a sacrament and sipped. Only a salty illusion of food but it was all they had. They piled on the blankets until their shivering was under control but he still could not feel his fingers. A draft blew from under the grating of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage. The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows.
+Piles of boxes were arranged in shanties all around. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion in a pinch but it was sinful to burn it in this manner. So many megajoules wasted.
 Four engineers sat in a circle with them by an island of boxes in the vast deck. Three of them juniors and one of them the bearded noncom who helped to pulled them up.
 “We got here round 0500,” the noncom explained. “Landed right next to this damn thing but took half an hour to find a way in. Couldn’t see shit. Me and Buzz over there hotwired a personal transmitter to the spire and set it for continuous broadcast.”
 The junior engineers were two men, one lanky, one fat, and one woman with short acid-white hair. They introduced themselves. “Second year, second year, third year. You?”
@@ -32,7 +32,7 @@ The noncom exhaled.
 “Archives?”
 “I’m first-wave tech.”
 The lanky junior shot the fat one a look.
-“Well, shit,” said the noncom. “Look at you. Go on.”
+“Well, shit,” said the noncom. “Look at you. Go on. Tell us what you saw.”
 “Everything went dark like a breaker tripped. There were only handheld lights and chemical overheads. Then microgravity came and the corridors started to spin. The air was thick like soup. The pumps. You couldn’t hear the atmosphere pumps. It was so quiet I thought I’d go crazy. Then came the order to abandon ship. I couldn’t. I had to go get her.”
 “You had to get her.”
 “Yessir.”
@@ -41,13 +41,13 @@ The lanky junior shot the fat one a look.
 “And you went all that way with an evac sounding?”
 “I was watching her on my locator. She wasn’t launching. I guessed that the pods that way didn’t work.”
 “How did you make it in time?”
-“I used my latches, sir.”
+“I used my latches.”
 “You were in climbing gear?”
 “We use it to get around the archives.”
 “I know what they use in the archives.”
 “Yessir.”
 “So you made it to the rescue bay and then what.”
-“I called to her. I hung onto the bulkhead told her to swim towards me. She came across the bay and then we hightailed it to the shop.”
+“I called to her among the crowd. I hung onto the bulkhead told her to swim towards me. She came across the bay and then we hightailed it to the shop.”
 “What next.”
 “Found a working hopper and shoved off, sir.”
 The noncom looked up and around as though he’d been fed the greatest line of bullshit in his life.
