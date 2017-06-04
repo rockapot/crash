@@ -21,20 +21,28 @@ She’s alive, he reminded himself. He’d know if she were dead. The world woul
 It was almost dark already. He faced the onslaught of snow like sand and in the machinists’ goggles a blur of distant firestorms clouded the air. Above him a running light blinked dumbly as though it were still attached to a ship. He clunked along the metal behemoth. This was the third time he had circumnavigated the hold and it was getting harder to make his way round the sides and back. Since he went out to look for her crazy ass the storm had resumed and the snowline had pushed its way up the side of the hull by another meter or so.
 Where the fuck are you?
 ---- 
-He found her ten meters up topside by the spire overlooking the edge of the maw. Her gaze focused deep in the stark greying world. She’d pulled her goggles off and her mask hung around her throat by its straps. He stood with her on the mottled globe-like hull as running lights burst to life around them.
+He found her atop the hold by the spire overlooking the edge of its maw. Sitting on its globe-like hull. Her gaze focused deep into the black world and the flames on its horizon. She’d pulled her goggles off and her mask hung around her throat by its straps. He approached her from behind. Running lights burst to life around them.
 “Alys.”
 “David.”
-“What are you doing? It’s goddamn freezing.”
+“Are you goddamn nuts?”
 “I saw it, David.”
 “What?”
-“Out here. Flying high up. It came at me.”
-“Bloody hell, what did you see?”
+“Out here. It became the sky.”
+“Come inside! What is wrong with you?”
 “You know what. It’s here. It followed us here.”
 “Oh god.”
-“We thought we could escape, but we couldn’t.”
-“Oh god.”
-He caught himself backing away from her and stopped himself.
-“We have to tell someone.” There was a pack of Lucky Sevens in his flight jacket. Maybe the last pack on the whole damn planet. He lit one and took a drag then passed it to her. She accepted it but it went out before she brought it to her lips.
+“There’s nowhere left for us to run.”
+He squeezed his eyes shut tight as they would go.
+“God, Alys—”
+“God and moon and mother. When the demon fell in love with a star.”
+“Leave it alone! We’re here.”
+“Do you know why God made space?”
+He sat down beside her.
+“Stop it, Alys.”
+“We are not meant to be here.”
+“Yes we are. We made it. Not exactly how we planned but we made it, we’re alive, you and me.”
+“.”
+He lit a Lucky Seven from the pack in his flight jacket. Maybe the last pack on the whole damn planet. He took a drag then passed it to her. She accepted it but it went out before she brought it to her lips.
 “Such is fate,” she replied.
 “Are you sure what you saw?”
 “Yes.”
