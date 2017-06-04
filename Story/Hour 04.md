@@ -58,7 +58,7 @@ He sighed and lit her cigarette.
 “Do you?”
 “Hubris of man. What’s that got to do with anything?”
 “No. For our protection. He laid the infinities between the stars but it wasn’t enough.”
-She looked to the precipice before them. A mist had started to roll in, a great terrestrial cloud that hung over the world below.
+She looked to the precipice before them. A fog started to roll in over the ground.
 “It wasn’t enough.”
 “Don’t do it,” he said. “You promised.”
- In the space of several blinks she stared back and forth as though considering possibilities, then tossed the cigarette into the void. The goggles turned her eyes into two big portholes of reflected flame. He checked and double-checked her harness and together they retreated down the service rungs. Before them passed a single gargantuan letter of the ship’s markings, paint and rust caked on the deck from the centuries. Underneath the mist roiled and churned and gave the illusion that there was no ground at all.
+ In the space of several blinks she stared back and forth as though considering possibilities, then tossed the cigarette into the void. The goggles turned her eyes into two big portholes of reflected flame. He checked and double-checked her harness and together they retreated down the service rungs. Before them passed a single gargantuan letter of the ship’s markings, paint and rust caked on the deck from the centuries. Underneath the fog roiled and churned and gave the illusion that there was no ground at all.
