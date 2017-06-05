@@ -61,46 +61,78 @@
 					<integer>11</integer>
 				</dict>
 			</dict>
-			<key>Hour 13 - Sara.md</key>
+			<key>Hour 06.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>518316420.62731802</real>
 				<key>lastModification</key>
-				<real>517012071.64885098</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>12</integer>
-				</dict>
-			</dict>
-			<key>Hour 13 - Survivors.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>517012071.64915198</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>13</integer>
-				</dict>
-			</dict>
-			<key>Hour 14 - David.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>517011921.02675402</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>6</integer>
-				</dict>
-			</dict>
-			<key>Hour 14 - Incoming.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>517169747.305094</real>
+				<real>518316682.12814403</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 					<integer>17</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>5</integer>
+					<integer>12</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Incoming.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518316593.270419</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>17</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>12</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Sara.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518316585.50322998</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>17</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>12</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Survivors.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518316581.17567998</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>17</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>12</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Unwanted.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518316682.12813902</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>17</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>12</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>Interlude (Midia).md</key>
@@ -121,8 +153,8 @@
 			<string>Hour 00 - Crash.md</string>
 		</array>
 		<array>
-			<string>Hour 13 - Survivors.md</string>
-			<string>Hour 13 - Sara.md</string>
+			<string>Hour 08 - Survivors.md</string>
+			<string>Hour 08 - Sara.md</string>
 		</array>
 		<array>
 			<string>Hour 01 - The Hold.md</string>
@@ -130,13 +162,16 @@
 			<string>Hour 04.md</string>
 		</array>
 		<array>
-			<string>Hour 14 - Incoming.md</string>
+			<string>Hour 08 - Unwanted.md</string>
 		</array>
 		<array>
-			<string>Hour 14 - David.md</string>
+			<string>Hour 08 - Incoming.md</string>
 		</array>
 		<array>
 			<string>Interlude (Midia).md</string>
+		</array>
+		<array>
+			<string>Hour 06.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -154,6 +189,8 @@
 			<integer>17</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
 			<integer>12</integer>
+			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>
