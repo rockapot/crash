@@ -3,57 +3,65 @@ The wind had stopped and visibility was clear. She sighted the other party first
 The ground was covered in gentle moguls which he used to mask his approach. When he got into position he laid on his stomach and propped himself on his elbows and scoped the unknowns. Snow had found its way into his blankets and a groundshaking chill ran through him. He could barely stabilize the image.
 The newcomers numbered nineteen in total. Husky and large in nonregulation furs and thickly studded surveyor’s pouches. Workers or tradesmen. A few carried scavenged watchmen’s pikes taller than a man with incandescent soul lights still burning at their tips. Four of them smaller, younger, wearing familiar jumpsuits decked out with thermals. They sledded metal equipment boxes on a tarp between them. Fellow engineers, perhaps. All of them headed along the bearing of the homing beacon. Likely from *Nereid* given their gear.
 Training his scopes in their direction of travel he found a black structure in the middle of the field nearly a hundred meters long shaped like a maggot with a cornucopia maw at one end. At the maw it was several stories tall. A dorsal cargo hold or landing bay from the looks of the flat bottom. It appeared to have separated and touched down during troposphere entry, carving an icy ravine behind it. The rest of the ship was nowhere in sight.
-When he went back and told her she smiled as though filled anew with spirit. Then she stood and let out a long chattering breath. For an instant he beheld her silhouette in the ashen sky and thought of home. She told him he was her good luck charm and led him tightly by the hand. 
+When he went back and told her she smiled as though filled anew with spirit. Then she stood and let out a long chattering breath. For an instant he beheld her silhouette in the ashen sky and thought of home.
+“You’re my good luck charm,” she said.
 ---- 
 They walked along a wake where flash-melted waves had re-frozen into skyward fingers almost as tall as the hold itself. The waves cast gnarled blue shadows in the shape of some ancient forest. Within the maw, a ruin of girders and jagged metal. Fountains of sparks like fireworks. Along their path a trail of cargo containers, shipping crates, netting, and machinery upended in the ice as though floating in a frozen sea. Footprints leading the way ahead, maybe a dozen or so tracks.
 ---- 
 Two bearded crewmen looked down at them over the lip of the deck, among the pipes and conduits that jutted from an uneven coastline of mesh. They dropped ropes and she climbed first. Her blankets unraveled and flew about like a violent flame engulfing her body. At the top they dragged her up and over by the waist. Perhaps history’s least ceremonial ascendance into salvation. He went next, facing a nest of bulging mechanical guts as he climbed, legs crossed, fist over fist. His arms were weak; feeling all but gone in his digits. If she could make it so could he. After he fell panting onto the deck she came to him and they knelt together. Twenty-strong survivors stood around them in a grove. Men and women, builders and engineers. Their faces hard as though engraved in stone. Even though they had only been marooned a brief time they looked like hell. Grey clothes and grey world alike.
 One of the bearded men knelt with them, saying brother, sister, welcome. You found us. 
 ---- 
-They were given steaming tin cups with ration cubes dissolved in water. He held his in both hands like a sacrament and sipped. Only a salty illusion of food but it was all they had. They piled on the blankets until their shivering was under control but he still could not feel his fingers. A draft blew from under the grating of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage. The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows.
-Piles of boxes were arranged in shanties all around. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion in a pinch but it was sinful to burn it in this manner. So many megajoules wasted.
-Four engineers sat in a circle with them by an island of boxes in the vast deck. Three of them juniors and one of them the bearded noncom who helped to pulled them up.
-“We got here round 0500,” the noncom explained. “Landed right next to this damn thing but took half an hour to find a way in. Couldn’t see shit. Me and Buzz over there hotwired a personal transmitter to the spire and set it for continuous broadcast.”
-The junior engineers were two men, one lanky, one fat, and one woman with short acid-white hair. They introduced themselves. “Second year, second year, third year. You?”
-“I’m third,” he answered. “She’s my sis. Going through her colonials.”
-“You sister?” asked the noncom.
-“Yessir.”
-“Just the two of you on planetfall?”
-“Yessir.”
-“Landed together.”
-“That’s right sir.”
+They received steaming tin cups with ration cubes dissolved in water.  He held his cup in both hands like a sacrament and sipped. Only a salty illusion of food but it was all they had. She blew on hers with all her might to cool it down and drank eagerly.
+A small congregation huddled faces in blankets and jumpsuits all muted grey and blue encircled them. All curious as to their tale. Ten or so crewmen, some on their haunches, a few leaning on boxes that were arranged in shanties all around. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion but such a sin to burn in this manner. So many megajoules wasted. 
+They piled on the blankets until their shivering was under control but he still could not feel his fingers. A draft blew from under the grating of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage. The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows.
+The bearded noncom who pulled them up spoke to them as though debriefing. Putrid strings of spittle and snot were frozen in his beard. 
+“Just the two of you landed together.”
+“That’s right.”
+“You know each other?”
+“She’s my sister.”
 “Now that’s a stroke of luck.”
-“He came to get me,” she said.
-“You disobeyed the general evac?”
-“I’d just as soon burn up with the ship as leave her.”
-The noncom exhaled.
-“Where were you when you disobeyed this evac.”
-“I was on duty in the archives.”
-“Archives?”
-“I’m first-wave tech.”
-The lanky junior shot the fat one a look.
-“Well, shit,” said the noncom. “Look at you. Go on. Tell us what you saw.”
-“Everything went dark like a breaker tripped. There were only handheld lights and chemical overheads. Then microgravity came and the corridors started to spin. The air was thick like soup. The pumps. You couldn’t hear the atmosphere pumps. It was so quiet I thought I’d go crazy. Then came the order to abandon ship. I couldn’t. I had to go get her.”
-“You had to get her.”
+“He came to get me,” she said. “When the siren sounded.”
+“You went to get her.”
 “Yessir.”
 “Where was she?”
 “North atrium rescue bay.”
+“Where were you?”
+“In the archives.”
 “And you went all that way with an evac sounding?”
-“I was watching her on my locator. She wasn’t launching. I guessed that the pods that way didn’t work.”
-“How did you make it in time?”
-“I used my latches.”
-“You were in climbing gear?”
-“We use it to get around the archives.”
-“I know what they use in the archives.”
 “Yessir.”
-“So you made it to the rescue bay and then what.”
-“I called to her among the crowd. I hung onto the bulkhead told her to swim towards me. She came across the bay and then we hightailed it to the shop.”
-“What next.”
-“Found a working hopper and shoved off, sir.”
-The noncom looked up and around as though he’d been fed the greatest line of bullshit in his life.
+“Go on. Tell us what you saw.”
+He took a moment to put it all together. The great vaults of the archives arched in copper with imperial columns running down the bulkheads. A rainbow of light from the ceremonial glasswork overhead gone dark leaving dark spider’s eyes in their place. The ship running cold and silent through space as though buried a thousand feet underground.
+“Everything went dark like a breaker tripped. There were only handheld lights and chemical overheads. Then microgravity came and the corridors started to spin. The air was thick like soup. The pumps. You couldn’t hear the atmosphere pumps. It was so quiet I thought I’d go crazy. Then came the order to abandon ship. I couldn’t. I was watching her on my locator and her group wasn’t launching. I guessed that the pods that way didn’t work so I went up there myself.”
+“Then what.”
+“When I arrived I called to her among the crowd. I was hanging onto the bulkhead shouting her name, telling her to swim towards me. She came across the bay and then we hightailed it to the shop.” He left out that her hair spilled everywhere like some kind of mermaid, that she hadn’t even the sense to tie it in microgravity.
+“The shop?”
+“By the launch bay. We found a working hopper and shoved off.”
+The noncom looked up and around as though questioning his faith.
 “You two did all of this.”
 “Yessir.”
 She nodded meekly beside him.
+“You’re goddamn miracles, you know that?”
+The noncom left them to rest with a promise to put them to work later.
+---- 
+Three of the juniors sat in a circle with them by an island of boxes in the vast deck. Two men, one lanky, one fat, and one woman with short acid-white hair. The lanky one introduced himself as Sam, the others as Carl and Evie.
+“Second year, second year, third year,” Sam said. “You?”
+“I’m third.”
+
+
+
+“We got here round 0500,” the noncom explained. “Landed right next to this damn thing but took half an hour to find a way in. Couldn’t see shit. Me and Buzz over there hotwired a personal transmitter to the spire and set it for continuous broadcast.”
+The junior engineers were two men, one lanky, one fat, and one woman with short acid-white hair. They introduced themselves. “Second year, second year, third year. You?”
+“I’m third,” he answered. “She’s my sister.”
+“Your sister?” asked the noncom.
+“Yessir.”
+“She in the service?”
+“I’m going through my colonials,” she answered.
+“And then?”
+“Seminary.”
+“God damn. You’re serious.”
+She nodded.
+
+
 “How’d you launch with control systems down?” the lanky junior asked.
 “Sidewinders,” she said, miming twin pistols. “Through the bay doors. Took five or six volleys. Those doors are *tough* motherfuckers.”
 She let it sit for a moment, taking in their astonished faces and then broke into a cheeky grin. Even the noncom shook his head with his arms on his haunches and said shit, you had me kid. You really had me. You two are goddamn miracles.
