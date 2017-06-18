@@ -85,5 +85,5 @@ Em paused expecting a question but Sara only stared downwards and sniffed.
 “You’re Han aren’t you?”
 “Half. My mother was Han.”
 “What’s your *real* name? Your Han name.”
-“Rin.”
-“Rin-*je*. Go help. I’ll wait for you.”
+“Bola.”
+“Bo-*je*. Go help. I’ll wait for you.”
