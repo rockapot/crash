@@ -5,7 +5,7 @@ The sky was gone, and the ground, and the horizon. There was no visibility in th
 As the scalar field that protected them wore off he felt his weight return, heard his own breathing hot in his respirator. He sprung the latches of his harness and those breaths came heavy and rasping like muted screams. In, out. In, out. He pulled at the flight release; it didn’t work. All the electrics were down. Under the console he reached for the ejector switch and pulled, and the canopy above tore away, replaced by the shriek of the wind and the blind sky overhead.
 He stood panting on his seat and turned around looking for his sister. She was behind him as when they left, her helmet lolling forward gently. He was about to climb the pitch of the cabin and rouse her but before he could do so she removed her oversized headgear and the wind took her light hair horizontal before her face. Delicately she brushed it away with one hand, and with the other she undid her harness. She wore no respirator and grimaced. He nodded and she nodded back.
 With a single motion he pulled off the bowl of his helmet and his respirator. The light hit him hard. Searing, frozen daylight that hung in the air like dew, drawing rainbow hexagons in his eyelashes. It was as though the sun had swollen white-hot and consumed the world, its photosphere churning in the air. He straddled the pilot’s chair still panting, feeling the chill run down his neck and under his flight jacket.
-She gave him a smile, elated and graceless. A little bit of kid left in her after all. She closed her eyes and threw her head back to the wind, and the flick of her motion brought the realization of the insignificance that such human qualities carried in the infinite plane around them. Her bright eyes, her cherub face. She reached for the crook of his elbow and pulled his arm gently. Maybe it’s okay after all. Underneath them the last murmur of the hopper’s intake jets became still. The latches of his harness dug into his chest and stomach. In the aftermath of adrenaline he grew cold, soaked in his own sweat, his hair dark and spiked with frost.
+She gave him a smile, elated and graceless. Still just a kid after all. She closed her eyes and threw her head back to the wind, and the flick of her motion brought the realization of the insignificance that such human qualities carried in the infinite plane around them. Her bright eyes, her cherub face. She reached for the crook of his elbow and pulled his arm gently. Maybe it’s okay after all. Underneath them the last murmur of the hopper’s intake jets became still. The latches of his harness dug into his chest and stomach. In the aftermath of adrenaline he grew cold, soaked in his own sweat, his hair dark and spiked with frost.
 “How long you think we got,” she shouted.
 “We won’t last the day,” he replied. “I shouldn’t have blown the glass off.”
 “Doesn’t matter. At least we made it.”
@@ -31,8 +31,7 @@ She looked at him and he didn’t look away. Her lips were taut, her brow furrow
 “You stay here,” he said.
 “No. You promised you wouldn’t leave me.”
 “Alys—”
-“You goddamn promised!”
-And then she pulled his arm and spoke gently.
+She pulled his arm and spoke sternly.
 “Come on.”
 As they set off with the wind and snow at their backs, he stopped for one last look at the hunkered form behind them. How like a perfect trapezoid it seemed, pointed and sleek like a scowling beast. She asked him what he was looking at.
 “This is unfriendly territory. We ought to blow the hopper.”
