@@ -12,7 +12,7 @@ Two bearded crewmen looked down at them over the lip of the deck, among the pipe
 ---- 
 They received steaming tin cups with ration cubes dissolved in water.  He held his cup in both hands like a sacrament and sipped. Only a salty illusion of food but it was all they had. She blew on hers with all her might to cool it down and drank eagerly. They sat leaning against a pile of boxes that were secured with netting and straps.
 It was all echoes and drafts in the hold. An icy wind blew from under the grate of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage. They had piled on the blankets until their shivering was under control but he still could not feel his fingers. He warmed them against the cup as much as he dared but it was so hot it felt irradiated. The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion but such a sin to burn in this manner. So many megajoules wasted. 
-The bearded noncom who had pulled them up shone a penlight in their eyes and took their pulses with his grimy fingers. The basics of field medicine. No shock, he decreed. No hypothermia. What’s with you two? Brother and sister? That’s a stroke of luck. You went to look for her with the evac sounding? You out of your fucking mind, son? No, no. I’d have done the same. A place in the promised land isn’t much without your kin, I’ll attest. Thank your stars and demons you made it this far. A pair of goddamn miracles. Let’s put you to work.
+The bearded noncom who had pulled them up shone a penlight in their eyes and took their pulses with his grimy fingers. The basics of field medicine. No shock, he decreed. No hypothermia. What’s with you two? Brother and sister? That’s a stroke of luck. You went to look for her with the evac sounding? You out of your fucking mind, son? I suppose I’d have done the same. A place in the promised land isn’t much without kin. I’ll attest. Thank your stars and demons you made it this far. A pair of goddamn miracles. Let’s put you to work.
 ---- 
 “Alys,” she introduced herself.
 “Gassy.” The girl walked with them. She was young, first- or second-year junior engineer, with close cropped acid-white hair. She was covered in blankets and carrying a line and harnesses. He was too. They were back out in the blowing snow, following the curved perimeter of the hold. 
@@ -39,12 +39,7 @@ She went silent. He looked down at her despite himself, saw her spinning pirouet
 “Gassy,” she said. “*You* should be Gassy.”
 He had to stop and shake his head. “Dammit, Alys,” he chuckled.
 ---- 
-
-Three of the juniors sat in a circle with them by an island of boxes in the vast deck. Two men, one lanky, one fat, and one woman with short acid-white hair. The lanky one introduced himself as Sam, the others as Carl and Evie.
-“Second year, second year, third year,” Sam said. “You?”
-“I’m third.”
-
-
+(todo)
 ---- 
 The rest of them relayed their own similar accounts of the day. 
 Everything electric went out at once. Interior structures turned to dead monoliths, studded with points of emergency lights. Anyone caught in an open-air section carried away as though by some divine hand. Almost none of the pods worked. Only those who found their way to some kind of auxiliary craft survived. 
