@@ -61,24 +61,6 @@
 					<integer>11</integer>
 				</dict>
 			</dict>
-			<key>Hour 06.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>518316420.62731802</real>
-				<key>lastModification</key>
-				<real>518316682.12814403</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>17</integer>
-					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>12</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>15</integer>
-				</dict>
-			</dict>
 			<key>Hour 08 - Incoming.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -145,6 +127,24 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>520581701.60562998</real>
+				<key>lastModification</key>
+				<real>520581701.60562998</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>20</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>12</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -159,6 +159,7 @@
 		<array>
 			<string>Hour 01 - The Hold.md</string>
 			<string>Hour 03.md</string>
+			<string>Untitled.md</string>
 			<string>Hour 04.md</string>
 		</array>
 		<array>
@@ -169,9 +170,6 @@
 		</array>
 		<array>
 			<string>Interlude (Midia).md</string>
-		</array>
-		<array>
-			<string>Hour 06.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -186,7 +184,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-			<integer>17</integer>
+			<integer>20</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
 			<integer>12</integer>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
