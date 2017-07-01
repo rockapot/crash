@@ -28,14 +28,16 @@ His sister’s voice came through his headset. “Can I have a callsign?”
 “Why?”
 “It’s bad luck not to have one.”
 “Only if you’re in the service.”
-“Maybe I’ll enlist. What’s your callsign?”
+“Maybe I’ll enlist.”
+“When you’re old enough, I won’t stop you.”
+“What’s your callsign?”
 “I don’t have one.”
 “It’s bad luck!”
 “I don’t believe in luck.”
 “I’m going to give you one.”
-She was silent for a while. He looked down at her despite himself, saw her spinning pirouettes in the snow, scarves trailing around her. Why wouldn’t she just stay inside? He kept climbing.
+She went silent. He looked down at her despite himself, saw her spinning pirouettes in the snow, scarves trailing around her. Why wouldn’t she just stay inside? He kept climbing.
 “Gassy,” she said. “*You* should be Gassy.”
-He had to stop and smile and shake his head. “Dammit, Alys.”
+He had to stop and shake his head. “Dammit, Alys,” he chuckled.
 ---- 
 
 Three of the juniors sat in a circle with them by an island of boxes in the vast deck. Two men, one lanky, one fat, and one woman with short acid-white hair. The lanky one introduced himself as Sam, the others as Carl and Evie.
