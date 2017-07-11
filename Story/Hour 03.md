@@ -50,9 +50,10 @@ She let the rucksack fall and the crowd turned at the clamor.
 “No shame in it,” he said. “Both fine choices.”
 “You just say that again.”
 “I can tell by your eyes.”
-She drew her fist back and telegraphed a right hook and he didn’t want to get bruised so he stepped into the arc of her swing and redirected her momentum and by the time they were done turning in a maelstrom of dark cloth he’d dropped his broth and her in the same motion. He knelt by her fallen form of splayed blankets and picked up the empty cup and shook his head. The noncom was on his way over and the onlookers stood dazed.
+She drew her fist back and telegraphed a right hook and he didn’t want to get bruised so he stepped into the arc of her swing and redirected her momentum and by the time they were done turning in a maelstrom of dark cloth he’d dropped his broth and her in the same motion. He knelt by her fallen form among her splayed blankets and picked up the empty cup and shook his head. The noncom was on his way over and the onlookers stood dazed.
 Your eyes, he wanted to say. You got silvers put in. Only a pilot would need such a high-speed connection.
-
+---- 
+Alys told him to shut up in that gentle way of hers and sat with Gassy sharing her broth. He’d already told the noncom that he wouldn’t put Gassy on report and the noncom said for what and he said for attempted assault on a senior cadet. That didn’t smooth things over but he didn’t expect it to. The noncom said to get out of his sight and make himself useful and run a hardline up to the conn tower. He figured 
 
 They arrived at the conn tower that shot upward like a thorn. He did his harness and Gassy did her own. They tethered themselves to the hull started their ascent. Alys stood watch at the base. 
 He was barely ten meters up when the sun beamed through an opening of cloud and imparted a cold dying light on the hull around him. Orange, he thought, and the snow turning purple. More orange in the distance: burning wreckage from *Nereid* only now growing visible.
