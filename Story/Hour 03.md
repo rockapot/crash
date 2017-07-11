@@ -8,20 +8,44 @@ When he went back and told her she smiled as though filled anew with spirit. The
 ---- 
 They walked along a wake where flash-melted waves had re-frozen into skyward fingers almost as tall as the hold itself. The waves cast gnarled blue shadows in the shape of some ancient forest. Within the maw, a ruin of girders and jagged metal. Fountains of sparks like fireworks. Along their path a trail of cargo containers, shipping crates, netting, and machinery upended in the ice as though floating in a frozen sea. Footprints leading the way ahead, maybe a dozen or so tracks.
 ---- 
-Two bearded crewmen looked down at them over the lip of the deck, among the pipes and conduits that jutted from an uneven coastline of mesh. They dropped ropes and she climbed first. Her blankets unraveled and flew about like a violent flame engulfing her body. At the top they dragged her up and over by the waist. Perhaps history’s least ceremonial ascendance into salvation. He went next, facing a nest of bulging mechanical guts as he climbed, legs crossed, fist over fist. His arms were weak; feeling all but gone in his digits. If she could make it so could he. After he fell panting onto the deck she came to him and they knelt together. Twenty-strong survivors stood around them in a grove. Men and women, builders and engineers, huddled in blankets and jumpsuits. Faces hard as though engraved in stone. Even though they had only been marooned a brief time they looked like hell. Grey clothes and grey world alike.
+Two bearded crewmen looked down at them over the lip of the deck, among the pipes and conduits that jutted from an uneven coastline of mesh. They dropped ropes and she climbed first. Her blankets unraveled and flew about like a violent flame engulfing her body. At the top they dragged her up and over by the waist. Perhaps history’s least ceremonial ascendance into salvation. He went next, facing a nest of bulging mechanical guts as he climbed, legs crossed, fist over fist. His arms were weak; feeling all but gone in his digits. If she could make it so could he. After he fell panting onto the deck she came to him and they knelt together. 
+It was all echoes and drafts in the hold. An icy wind blew from under the grate of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage.  The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion but such a sin to burn in this manner. So many megajoules wasted. 
+Twenty-strong survivors stood around them in a grove. Men and women, builders and engineers, huddled in blankets and jumpsuits. Faces hard as though engraved in stone. Even though they had only been marooned a brief time they looked like hell. Grey clothes and grey world alike.
 ---- 
-They received steaming tin cups with ration cubes dissolved in water.  He held his cup in both hands like a sacrament and sipped. Only a salty illusion of food but it was all they had. She blew on hers with all her might to cool it down and drank eagerly. They sat leaning against a pile of boxes that were secured with netting and straps.
-It was all echoes and drafts in the hold. An icy wind blew from under the grate of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage. They had piled on the blankets until their shivering was under control but he still could not feel his fingers. He warmed them against the cup as much as he dared but it was so hot it felt irradiated. The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion but such a sin to burn in this manner. So many megajoules wasted. 
-The bearded noncom who had pulled them up shone a penlight in their eyes and took their pulses with his grimy fingers. The basics of field medicine. No shock, he decreed. No hypothermia. What’s with you two? Brother and sister? That’s a stroke of luck. You went to look for her with the evac sounding? You out of your fucking mind, son? I suppose a place in the promised land isn’t much without kin. I’ll attest. Thank your stars and demons you made it this far. A pair of goddamn miracles. Let’s put you to work.
----- 
-“Alys,” she introduced herself.
-“Gassy.” The girl walked with them. She was young, first- or second-year junior engineer, with close cropped acid-white hair. She was covered in blankets and carrying a line and harnesses. He was too. They were back out in the blowing snow, following the curved perimeter of the hold. 
-“What?”
+They received steaming tin cups with ration cubes dissolved in water.  He held his cup in both hands like a sacrament and sipped. Only a salty illusion of food so hot as to feel irradiated but it was all they had. She blew on hers with all her might to cool it down and drank eagerly. He’d given her all the blankets he could spare, swaddled her until she looked like a pearshaped idol, but still she shivered, though she hid it well. He looked at her and she smiled back with eyes closed, teakettle spouts of steam from her nostrils.
+They stood in line with five other survivors. At the head of the line the bearded noncom who had pulled them up was attending to a young boy with a mop of wet hair. Shining a penlight in the boy’s eyes and taking the boy’s pulse with his grimy fingers. The basics of field medicine. No hypothermia, he decreed. How far did you walk? Which division? The boy shook and dripped sweat and stammered. No matter how calmly the noncom spoke no answers were forthcoming.
+“Sir, I think he’s in shock,” he called.
+“You wait your turn!”
+“Sir, you should just let him be!”
+But the noncom ignored him and persisted in his line of questioning.
+The girl in front of them turned around. She was young, first- or second-year junior engineer, with close cropped acid-white hair. Under her blankets she had a metal harness and straps like the kind dockworkers wore.
+“You a medic or something?” she asked.
+“More of a medic than he is.”
+“Watch it. He’s your superior.”
+“Age doesn’t make him superior.”
+“How don’t it.”
+“They think they own us. Doesn’t that make you mad?”
+“Nobody owns me.” She put her hands on her hips and faced him. “You should respect the chain of command. You signed up same as everyone else.”
+“I didn’t sign anything.”
+“Then why are you here?”
+“For my sister.”
+“Who?”
+“Alys,” she introduced herself, hands cupped around her broth. 
+The engineer softened her stance and replied, “Gassy.”
+“What?” Alys asked.
 “You heard me.”
 “What kind of name is that?”
 “It’s my callsign.”
 “You have a callsign?”
 “Bad luck not to have one.”
+The line moved and Gassy picked up her gear from the ground as they shuffled ahead. It was heavy and metal in an elongated rucksack with straps over the top and it made clanking noises like piping and valves when she slung it over her shoulder.
+“You a flygirl?” he asked.
+“I’m a runner.”
+“Oh.”
+“What’s that mean?”
+“Nothing. Means ‘oh.’ ”
+You got something to say to me, 
+
 They arrived at the conn tower that shot upward like a thorn. He did his harness and Gassy did her own. They tethered themselves to the hull started their ascent. Alys stood watch at the base. 
 He was barely ten meters up when the sun beamed through an opening of cloud and imparted a cold dying light on the hull around him. Orange, he thought, and the snow turning purple. More orange in the distance: burning wreckage from *Nereid* only now growing visible.
 His sister’s voice came through his headset. “Can I have a callsign?”
