@@ -1,7 +1,7 @@
 ### Hour 03
-The wind had stopped and visibility was clear. She sighted the other party first, still dots in the wilderness five hundred meters off. He ushered her into cover of snow and they bore witness together. Their vantage point was poor. “Wait here,” he said, and to his surprise she only nodded.
+The wind had stopped and visibility was clear. She sighted the other party first, still dots in the wilderness five hundred meters off. He ushered her into cover of snow where they watched but their vantage point was poor. “Wait here,” he said, and to his surprise she only nodded.
 The ground was covered in gentle moguls which he used to mask his approach. When he got into position he laid on his stomach and propped himself on his elbows and scoped the unknowns. Snow had found its way into his blankets and a groundshaking chill ran through him. He could barely stabilize the image.
-The newcomers numbered nineteen in total. Husky and large in nonregulation furs and thickly studded surveyor’s pouches. Workers or tradesmen. A few carried scavenged watchmen’s pikes taller than a man with incandescent soul lights still burning at their tips. Four of them smaller, younger, wearing familiar jumpsuits decked out with thermals. They sledded metal equipment boxes on a tarp between them. Fellow engineers, perhaps. All of them headed along the bearing of the homing beacon. Likely from *Nereid* given their gear.
+The newcomers numbered nineteen in total. Husky and large in nonregulation furs and thickly studded surveyor’s pouches. Workers or tradesmen. A few carried scavenged watchmen’s pikes taller than a man with incandescent pyres still burning at their tips. Four of them smaller, younger, wearing familiar jumpsuits decked out with thermals. They sledded metal equipment boxes on a tarp between them. Fellow engineers, perhaps. All of them headed along the bearing of the homing beacon. Likely from *Nereid* given their gear.
 Training his scopes in their direction of travel he found a black structure in the middle of the field nearly a hundred meters long shaped like a maggot with a cornucopia maw at one end. At the maw it was several stories tall. A dorsal cargo hold or landing bay from the looks of the flat bottom. It appeared to have separated and touched down during troposphere entry, carving an icy ravine behind it. The rest of the ship was nowhere in sight.
 When he went back and told her she smiled as though filled anew with spirit. Then she stood and let out a long chattering breath. For an instant he beheld her silhouette in the ashen sky and thought of home.
 “You’re my good luck charm,” she said.
@@ -17,7 +17,7 @@ The bearded noncom who had pulled them up shone a penlight in their eyes and too
 “Alys,” she introduced herself.
 “Gassy.” The girl walked with them. She was young, first- or second-year junior engineer, with close cropped acid-white hair. She was covered in blankets and carrying a line and harnesses. He was too. They were back out in the blowing snow, following the curved perimeter of the hold. 
 “What?”
-“Gassy.”
+“You heard me.”
 “What kind of name is that?”
 “It’s my callsign.”
 “You have a callsign?”
@@ -37,10 +37,6 @@ His sister’s voice came through his headset. “Can I have a callsign?”
 “I’m going to give you one.”
 She went silent. He looked down at her despite himself, saw her spinning pirouettes in the snow, scarves trailing around her. Why wouldn’t she just stay inside? He kept climbing.
 “Gassy,” she said. “*You* should be Gassy.”
-He had to stop and smile, shake his head. 
-“Dammit, Alys.”
----- 
-(todo: meeting other juniors)
 ---- 
 The rest of them relayed their own similar accounts of the day. 
 Everything electric went out at once. Interior structures turned to dead monoliths, studded with points of emergency lights. Anyone caught in an open-air section carried away as though by some divine hand. Almost none of the pods worked. Only those who found their way to some kind of auxiliary craft survived. 
