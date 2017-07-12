@@ -12,42 +12,39 @@ Two bearded crewmen looked down at them over the lip of the deck, among the pipe
 It was all echoes and drafts in the hold. An icy wind blew from under the grate of the deck and sailed upwards all the way to the dark studded rails that formed supports like the interior of a vast rib cage.  The only light came from outside, leaving the aft of the deck dark, the middle a land of shadows. Barrels of blue flame burned with gel from the hold’s power relays. A good means of combustion but such a sin to burn in this manner. So many megajoules wasted. 
 Twenty-strong survivors stood around them in a grove. Men and women, builders and engineers, huddled in blankets and jumpsuits. Faces hard as though engraved in stone. Even though they had only been marooned a brief time they looked like hell. Grey clothes and grey world alike.
 ---- 
-They received steaming tin cups with ration cubes dissolved in water.  He held his cup in both hands like a sacrament and sipped. Only a salty illusion of food so hot as to feel irradiated but it was all they had. She blew on hers with all her might to cool it down and drank eagerly. He’d given her all the blankets he could spare and they swaddled her until she looked like a pearshaped idol. But still she shivered, though she hid it well. He looked at her and she smiled back with eyes closed, teakettle spouts of steam from her nostrils.
-They stood in line with about fifteen other survivors. At the head of the line the bearded noncom who had pulled them up was attending to a young boy with a mop of wet hair. Shining a penlight in the boy’s eyes and taking the boy’s pulse with his grimy fingers. The basics of field medicine. No hypothermia, he decreed. How far did you walk? Which division? The boy shook and dripped sweat and stammered. No matter how calmly the noncom spoke no answers were forthcoming.
-“Sir, I think he’s in shock,” he called.
+They received steaming tin cups with ration cubes dissolved in water. He held his cup in both hands like a sacrament and sipped. Only a salty illusion of food so hot as to feel irradiated but it was all they had. She blew on hers with all her might to cool it down and drank eagerly. He’d given her all the blankets he could spare and they swaddled her until she looked like a pearshaped idol. But still she shivered, though she hid it well. He looked at her and she smiled back with eyes closed, teakettle spouts of steam from her nostrils.
+They stood in line with about fifteen other survivors. At the head of the line the bearded noncom who had pulled them up was attending to a first-year boy with a mop of wet hair. Shining a penlight in the boy’s eyes and taking the boy’s pulse with his grimy fingers. The basics of field medicine. No hypothermia, he decreed. How far did you walk? Which division? The boy shook and dripped sweat and stammered. No matter how calmly the noncom spoke no answers came forth.
+Finally as he watched the officer and the boy he spoke up. 
+“Sir, I think he’s in shock.”
 “You wait your turn!”
 “Sir, you should just let him be!”
 But the noncom ignored him and persisted in his line of questioning.
-The girl in front of them turned around. She was young, first- or second-year junior engineer, with close cropped acid-white hair. Under her blankets she had a metal harness and straps like the kind dockworkers wore.
+“Sir!”
+The girl in front of them turned around. She was young, first- or second-year junior engineer, with close cropped acid-white hair. Under her blankets she had a metal harness and weathered straps like the kind dockworkers wore.
 “You a medic or something?” she asked.
 “More of a medic than he is.”
 “Watch it. He’s your superior.”
 “Age don’t make him superior.”
 “How don’t it.”
-“They think they own us. Doesn’t that make you mad?”
-“Nobody owns me.” She put her hands on her hips and faced him. “You should respect the chain of command. You signed up same as everyone else.”
+“Don’t teach you to recognize shock, for one.”
+She turned, her steps metallic, boots on deck. She squinted. Must have been the glare off the snow behind him. “You should respect the chain of command. You signed up same as everyone else.”
 “I didn’t sign anything.”
 “Then why are you here?”
 “For my sister.”
 “Who?”
-“Alys,” she introduced herself, hands cupped around her broth. 
-The engineer softened her stance and replied, “Gassy.”
-“What?” Alys asked.
-“It’s my callsign.”
-“You have a callsign?”
-“Bad luck not to have one.”
-The line moved and Gassy picked up her gear from the ground as they shuffled ahead. It was heavy and metal in an elongated canvas rucksack with straps over the top and it made clanking noises like piping and valves when she slung it over her shoulder.
+“Hi,” she peeked out from behind him, hands cupped around her broth. 
+“Oh.” The engineer softened her stance. As the line started to move she picked up her gear and shuffled ahead. It was heavy and metal in an elongated canvas rucksack with straps over the top and it made clanking noises like piping and valves when she slung it over her shoulder.
 “You a flygirl?” he asked.
 “I’m a runner.”
 “Oh.”
 “What’s that mean?”
 “Nothing. Means ‘oh.’ ”
-“You got something to say to me, medic?” She turned, her steps metallic, boots on deck. She squinted. Must have been the glare off the snow behind him.
+“You got something to say to me, medic?” 
 “I’m not a medic.”
 “Just like to talk big then.”
-“No, I’m not a medic, but I know shock when I see it. Same as I know you want to be a flygirl and not a runner.”
+“I’m not a medic, but I know things. Same as I know you want to be a flygirl and not a runner.”
 She let the rucksack fall and the crowd turned at the clamor.
-“No shame in it,” he said. “Both fine choices.”
+“No shame in it,” he said.
 “You just say that again.”
 “I can tell by your eyes.”
 She drew her fist back and telegraphed a right hook and he didn’t want to get bruised so he stepped into the arc of her swing and redirected her momentum and by the time they were done turning in a maelstrom of dark cloth he’d dropped his broth and her in the same motion. He knelt by her fallen form among her splayed blankets and picked up the empty cup and shook his head. The noncom was on his way over and the onlookers stood dazed.
