@@ -1,6 +1,6 @@
 ## Incoming
 ### Hour 08
-A fine mist of blood. On Mica’s scopes, her face, everywhere. Dripping across her forehead and into her sputtering mouth. She turned frantically between Em and her patient. She was wrist-deep in a gash on the inner thigh of a young Han boy, maybe fifteen years old, trying to clamp his femoral. He was well-built but thin, stripped down to his skivvies.
+A fine mist of blood on Mica’s scopes, her face, everywhere. Dripping across her forehead and into her sputtering mouth. She turned frantically between Em and her patient. She was wrist-deep in a gash on the inner thigh of a young Han boy, maybe fifteen years old, trying to clamp his femoral. He was well-built but thin, stripped down to his skivvies.
 “Em, help me close!”
 Em grabbed the protoplaser with both hands and hefted it across the deck. A blessed working unit scavenged with the last round of survivors. She clunked it down in the vee of the boy’s legs and started to focus. A spotlight swung briefly overhead before leaving the deck in the waxy yellow glow of lanterns and mirrors.
 “Clamp it.” 
@@ -8,7 +8,7 @@ Blood continued to well.
 “Harder!”
 “I know!” Mica yelled back.
 “I mean it!”
-Finally she could see the rupture and brought the plaser's arm to bear. She checked its reserve. Barely a quarter capsule left. She pulled her own scopes down from her forehead, then leaned in close over the boy’s other leg, guiding the plaser arm with both hands.
+Finally she could see the rupture and brought the plaser's arm to bear. She checked its reserve. Barely a quarter left. She pulled her own scopes down from her forehead, then leaned in close over the boy’s other leg, guiding the plaser arm with both hands.
 “Locked. Burning!”
 She fired and the air filled with a rude buzz and a white-hot light. They both squinted behind their scopes, Mica having the luxury of looking away. Em’s hair fell in front of her face and she felt dangerously close to singeing it off.
 “Looks good. I’ve got a seal and it’s holding. I’m going to extend. Clear.”
