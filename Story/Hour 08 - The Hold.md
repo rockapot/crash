@@ -4,10 +4,9 @@ The newcomers numbered nineteen in total. Husky and large in nonregulation furs 
 Training his scopes in their direction of travel he saw the black structure in the middle of the field nearly a hundred meters long shaped like a maggot with a cornucopia maw at one end. At the maw it was several stories tall. Their common destination. They’d taken to calling it the hold: a dorsal cargo hold with a flat bottom. It had probably separated and touched down during troposphere entry, carving an icy ravine behind it.
 He went back and told the charge officer. He hoisted an unconscious form and the party  set off doubletime.
 Gassy walked up next to him, at the head of a stretcher. Her short spiky hair bare in the cold, goggles perched on her head like a mantis.
-
-“Enjoy your shore leave back there?” she said.
-
-he smiled as though filled anew with spirit. Then she stood and let out a long chattering breath. For an instant he beheld her silhouette in the ashen sky and thought of home.
+“
+“
+She smiled as though filled anew with spirit. Then she let out a long chattering breath. For an instant he beheld the glare of her lamp and her face beading with sweat and thought of home.
 ---- 
 They walked along a wake where flash-melted waves had re-frozen into skyward fingers almost as tall as the hold itself. The waves cast gnarled blue shadows in the shape of some ancient forest. Within the maw, a ruin of girders and jagged metal. Fountains of sparks like fireworks. Along their path a trail of cargo containers, shipping crates, netting, and machinery upended in the ice as though floating in a frozen sea. Footprints leading the way ahead, maybe a dozen or so tracks.
 ---- 
