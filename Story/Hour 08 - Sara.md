@@ -19,7 +19,7 @@ The girl looked at her, paused for a moment, then mouthed an empty syllable befo
 “What?”
 “What the fuck did you *do to me?*”
 “I don’t—”
-A beacon pierced the darkness from beyond the nest of blankets and containers. Its light was sudden and strong. Em’s long shadow materialized across the girl, whose clothing grew bright as though aflame. All else became monochrome by comparison. A nosebleed on her face and one of her areolae flashed for an instant in the intruding light before she ducked into Em’s shadow. 
+A beacon pierced the darkness from beyond the nest of blankets and containers. Its light was sudden and strong. Em’s long shadow materialized across the girl, whose clothing grew bright as though aflame. A nosebleed on her face and one of her areolae flashed for an instant in the intruding light before she ducked into Em’s shadow. 
 Out of instinct Em spun around to shelter the girl, ready to berate or cajole, her words lining up in her head: she had another five minutes, she was helping this kid, what did it matter anyways.
 Instead when she turned she saw that light descend from outside beyond the mouth of the hold, hovering in the sky. A searchlight from a transport in the process of touchdown, the whine of its landing thrusters audible, kicking up clouds of steam and snow. It set beyond the skyline of boxes and scaffolds and crewmen perched in the rafters turned to watch its descent, their hair aglow in a white halo. Already a garrison of voices and rumbling of boots headed outbound with a quickened pulse.
 “Shit,” Em muttered. More survivors. Soon they’d call for all the medics. Soon they’d call for her. But until then, the girl would be her charge.
@@ -61,7 +61,7 @@ Sara sat back with eyes stunned and watery and Em felt her own tears coming. Foo
 *Mother Star, if you’re there, if you’re merciful, just freeze time, let me stay with this one. She’s not dying but look at her she’s naked and she’s terrified. Mother Star please.*
 The spotlight returned, bright from behind Em, but this time Sara paid it no mind.
 “Em? Is that you?” said a male voice on the other side of the beacon.
-“Get that out of here!” Em shouted back.
+“Get out of here!” Em shouted back.
 “What’s wrong with you? We have incoming!”
 “I’m on my way! Now get!”
 The light swung away. The man left running to the maw and Em turned to Sara again.
@@ -85,5 +85,5 @@ Em paused expecting a question but Sara only stared downwards and sniffed.
 “You’re Han aren’t you?”
 “Half. My mother was Han.”
 “What’s your *real* name? Your Han name.”
-“Bola.”
-“Bo-*je*. Go help. I’ll wait for you.”
+“Rin.”
+“Rin-*je*. Go help. I’ll wait for you.”
