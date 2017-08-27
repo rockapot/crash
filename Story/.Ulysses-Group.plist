@@ -59,30 +59,44 @@
 					<integer>15</integer>
 				</dict>
 			</dict>
-			<key>Hour 08 - Incoming.md</key>
+			<key>Hour 08 - David.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>518316593.270419</real>
+				<real>524810065.48224699</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>17</integer>
+					<integer>34</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>12</integer>
+					<integer>33</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>6</integer>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Emily.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524810627.815216</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>34</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>40</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>Hour 08 - Sara.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521527432.82494801</real>
+				<real>524810627.81521797</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>20</integer>
+					<integer>34</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>20</integer>
+					<integer>40</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -90,13 +104,13 @@
 			<key>Hour 08 - Survivors.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521527432.82479298</real>
+				<real>524810627.81521797</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>20</integer>
+					<integer>34</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>19</integer>
+					<integer>40</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -125,24 +139,6 @@
 					<integer>20</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
 					<integer>23</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>15</integer>
-				</dict>
-			</dict>
-			<key>Hour 72 -.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521527343.810718</real>
-				<key>lastModification</key>
-				<real>521527343.810718</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>20</integer>
-					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>17</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -193,17 +189,18 @@
 			<string>Hour 72 - David &amp; Sara.md</string>
 		</array>
 		<array>
-			<string>Hour 72 -.md</string>
-		</array>
-		<array>
 			<string>Interlude (Space).md</string>
 		</array>
 		<array>
 			<string>Interlude (Star).md</string>
 		</array>
 		<array>
+			<string>Hour 08 - Emily.md</string>
 			<string>Hour 08 - Survivors.md</string>
 			<string>Hour 08 - Sara.md</string>
+		</array>
+		<array>
+			<string>Hour 08 - David.md</string>
 		</array>
 		<array>
 			<string>Hour 01 - The Hold.md</string>
@@ -212,9 +209,6 @@
 		</array>
 		<array>
 			<string>Hour 08 - Unwanted.md</string>
-		</array>
-		<array>
-			<string>Hour 08 - Incoming.md</string>
 		</array>
 		<array>
 			<string>Interlude (Midia).md</string>
@@ -234,7 +228,7 @@
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 			<integer>34</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-			<integer>28</integer>
+			<integer>40</integer>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 			<integer>15</integer>
 		</dict>
