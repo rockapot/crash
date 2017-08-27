@@ -1,4 +1,4 @@
-## Incoming
+## Emily
 ### Hour 08
 A fine mist of blood. On Mica’s scopes, her face, everywhere. Dripping across her forehead and into her sputtering mouth. She turned frantically between Em and her patient. She was wrist-deep in a gash on the inner thigh of a young Han boy, maybe fifteen years old, trying to clamp his femoral. He was well-built but thin, stripped down to his skivvies.
 “Em, help me close!”
@@ -12,7 +12,7 @@ Finally she could see the rupture and brought the plaser's arm to bear. She chec
 “Locked. Burning!”
 She fired and the air filled with a rude buzz and a white-hot light. They both squinted behind their scopes, Mica having the luxury of looking away. Em’s hair fell in front of her face and she felt dangerously close to singeing it off.
 “Looks good. I’ve got a seal and it’s holding. I’m going to extend. Clear.”
-“Do it!” Mica removed her hands and Em started tracking the plaser millimeter by painstaking millimeter, reaching beyond the arc to guide the deep tissue mend. The scent of cauterized flesh filled the air, acrid, chemical. Her fingers grew hot through her calluses in proximity to the needle-sharp beam but she endured. After an agonizing minute her hands and wrists cramped and she felt she would go blind even from behind the protection of her scopes. Finally the repair reached its end and she cut the plaser at the end of her endurance.
+“Do it!” Mica removed her hands and Em started tracking the plaser millimeter by painstaking millimeter, reaching beyond the arc to guide the deep tissue mend. The scent of cauterized flesh filled the air, acrid, chemical. Her fingers grew hot through her calluses in proximity to the needle-sharp beam but she endured. After an agonizing minute her hands and wrists cramped and she felt she would go blind even from behind the protection of her scopes. Finally the repair was done and she cut the plaser at the end of her endurance.
 Mica had already loaded an epidermal unit. It took thirty staples to close and the resulting scar was jagged, almost sawtoothed. The boy was pale and sweaty, his pulse racing and blood pressure low.
 “Check the donor pool. He’s going to need . . . Mica, are you listening?”
 “You’re bleeding. Your nose.”
