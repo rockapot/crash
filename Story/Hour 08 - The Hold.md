@@ -1,10 +1,27 @@
-### Hour 03
-The wind had stopped and visibility was clear. She sighted the other party first, still dots in the wilderness five hundred meters off. He ushered her into cover of snow where they watched but their vantage point was poor. “Wait here,” he said, and to his surprise she only nodded.
-The ground was covered in gentle moguls which he used to mask his approach. When he got into position he laid on his stomach and propped himself on his elbows and scoped the unknowns. Snow had found its way into his blankets and a groundshaking chill ran through him. He could barely stabilize the image.
+### Hour 08 - The Hold
+The wreckage of *Nereid* was strewn across the dark frozen wasteland, still burning in the night. Pieces of her were strewn across across the horizon in wells of orange and red flame, funnels of thick smoke lit by their own fires black against the black sky.
+David lagged behind the search party. The wind blasted so hard that he staggered. His headgear beam lit snowflakes like the stars themselves and traced a frantic ellipsoid of ghostly white mist on the ground before him. He shifted the man he carried—or woman, it was hard to tell. A ragged form of awkward weights that tipped him eagerly this way and that. He had to stop and rest, catch his breath. A ponce move, but it was either that or drop his charge. He laid the form down gently as though unfurling it from himself, then knelt beside it and took a swig from his canteen.
+He looked at the form swaddled in blankets like a pearshaped idol. A scarf on its head and face except for its eyes, which looked at him wide open. He pulled the scarf down to reveal smooth, round features. A young woman, barely more than a girl. She winced in his light and he turned it off.
+“Welcome to the promised land,” he shouted over the wind.
+She muttered something back that he couldn’t hear so he leaned in with his ear to her mouth and when she spoke again it was in Han.
+“I don’t understand.”
+She repeated it: a single word, two syllables, the last one a plaintive *oh* sound.
+“What’s wrong? Are you in pain? Pain?”
+She looked his canteen, then back at him.
+“Water? Is that it?”
+He gave her a swig and let her drink until it dribbled out of her mouth in a trail slimy down her chin. When he pulled the canteen away it was much lighter and the girl had closed her eyes once more. He upended the canteen and it was dry.
+“You’ve got to be kidding me.”
+He sighed and donned his gear and picked her up again.
+The rest of the party had climbed a hill and were pulling away, losing opacity. He watched the last one crest the top and disappear over the other side. He traced their steps, certain he’d followed true, but when he looked beyond the peak he saw nothing; just an expanse. His thoughts muted. The breath of the world passed in a torrent. He wondered whether they had been real to begin with or if they were an illusion born purely from his need to not be alone. Calmly he switched off his beacon and scanned the landscape and despite the abundance of white static riding the wind he saw a movement of light near the bottom. He allowed himself to continue.
+---- 
+On their way back the wind had stopped. They sighted the other party first, still dots in the wilderness five hundred meters off. Quickly they went dark but couldn’t tell if they had been sighted. The charge officer sent him out with scopes. The ground was covered in gentle moguls which he used to mask his approach. When he got into position he laid on his stomach and propped himself on his elbows and scanned the unknowns. Snow had found its way into his blankets and a groundshaking chill ran through him. He could barely stabilize the image.
 The newcomers numbered nineteen in total. Husky and large in nonregulation furs and thickly studded surveyor’s pouches. Workers or tradesmen. A few carried scavenged watchmen’s pikes taller than a man with incandescent pyres still burning at their tips. Four of them smaller, younger, wearing familiar jumpsuits decked out with thermals. They sledded metal equipment boxes on a tarp between them. Fellow engineers, perhaps. All of them headed along the bearing of the homing beacon. Likely from *Nereid* given their gear.
-Training his scopes in their direction of travel he found a black structure in the middle of the field nearly a hundred meters long shaped like a maggot with a cornucopia maw at one end. At the maw it was several stories tall. A dorsal cargo hold or landing bay from the looks of the flat bottom. It appeared to have separated and touched down during troposphere entry, carving an icy ravine behind it. The rest of the ship was nowhere in sight.
-When he went back and told her she smiled as though filled anew with spirit. Then she stood and let out a long chattering breath. For an instant he beheld her silhouette in the ashen sky and thought of home.
-“You’re my good luck charm,” she said.
+Training his scopes in their direction of travel he saw the black structure in the middle of the field nearly a hundred meters long shaped like a maggot with a cornucopia maw at one end. At the maw it was several stories tall. Their common destination. They’d taken to calling it the hold: a dorsal cargo hold with a flat bottom. It had probably separated and touched down during troposphere entry, carving an icy ravine behind it.
+He went back and told the charge officer. He hoisted an unconscious form and the party  set off doubletime.
+Gassy walked up next to him, at the head of a stretcher. Her short spiky hair bare in the cold, goggles perched on her head like a mantis.
+“
+“
+She smiled as though filled anew with spirit. Then she let out a long chattering breath. For an instant he beheld the glare of her lamp and her face beading with sweat and thought of home.
 ---- 
 They walked along a wake where flash-melted waves had re-frozen into skyward fingers almost as tall as the hold itself. The waves cast gnarled blue shadows in the shape of some ancient forest. Within the maw, a ruin of girders and jagged metal. Fountains of sparks like fireworks. Along their path a trail of cargo containers, shipping crates, netting, and machinery upended in the ice as though floating in a frozen sea. Footprints leading the way ahead, maybe a dozen or so tracks.
 ---- 

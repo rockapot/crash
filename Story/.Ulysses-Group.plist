@@ -19,44 +19,44 @@
 		<dict>
 			<key>Hour 01 - The Hold.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>525668497.74864697</real>
 				<key>lastModification</key>
-				<real>521536080.30868</real>
+				<real>525668496</real>
 				<key>version</key>
 				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>20</integer>
-					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>26</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>15</integer>
+					<key>legacy-525668496.000000</key>
+					<integer>1</integer>
 				</dict>
 			</dict>
 			<key>Hour 03.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>525668497.748658</real>
 				<key>lastModification</key>
-				<real>521536080.30886298</real>
+				<real>525668496</real>
 				<key>version</key>
 				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>20</integer>
-					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>27</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>15</integer>
+					<key>legacy-525668496.000000</key>
+					<integer>1</integer>
 				</dict>
 			</dict>
 			<key>Hour 04.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>525668497.74866599</real>
 				<key>lastModification</key>
-				<real>521536080.30900699</real>
+				<real>525668496</real>
 				<key>version</key>
 				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>20</integer>
-					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>28</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>15</integer>
+					<key>legacy-525668496.000000</key>
+					<integer>1</integer>
 				</dict>
 			</dict>
 			<key>Hour 08 - David.md</key>
@@ -90,13 +90,27 @@
 			<key>Hour 08 - Sara.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524810627.81521797</real>
+				<real>525668581.93610001</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>34</integer>
+					<integer>66</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>40</integer>
+					<integer>42</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Speculation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525668608.43022799</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>66</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>45</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -111,6 +125,38 @@
 					<integer>34</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
 					<integer>40</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - The Hold.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525668608.43040299</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>66</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>46</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Triage.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>525668641.77897203</real>
+				<key>lastModification</key>
+				<real>525668641.77897203</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>66</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>47</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -170,11 +216,11 @@
 			<key>Interlude (Star).md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521617076.67284602</real>
+				<real>521623163.835244</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>27</integer>
+					<integer>38</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
 					<integer>28</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
@@ -211,7 +257,16 @@
 			<string>Hour 08 - Unwanted.md</string>
 		</array>
 		<array>
+			<string>Hour 08 - The Hold.md</string>
+		</array>
+		<array>
+			<string>Hour 08 - Speculation.md</string>
+		</array>
+		<array>
 			<string>Interlude (Midia).md</string>
+		</array>
+		<array>
+			<string>Hour 08 - Triage.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -226,9 +281,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-			<integer>34</integer>
+			<integer>66</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-			<integer>40</integer>
+			<integer>47</integer>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 			<integer>15</integer>
 		</dict>

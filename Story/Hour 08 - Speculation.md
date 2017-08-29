@@ -1,4 +1,4 @@
-### Hour 04
+### Hour 08 - Speculation
 Over sixty survivors. Half of them able-bodied.
 He dangled inverted on an overhead line with six other juniors hotwiring the cylindrical atmosphere pumps big as moons in the sky. The deck was a dizzy blur, a pastiche of bloody strokes dark and angry around the makeshift triage ward. Blood on the blankets and blood on the curtains and blood seeping through the sheets of the writhing injured. Medics calling nonsense to each other, blood on them too. Don’t think about that. And don’t look down. Look outside if you have to. It’s the same right side up as upside down. 
 After twenty-five minutes of work all the pumps hummed in chorus and blasted air downward to the deck. In a brief celebration they hooted and cheered.
