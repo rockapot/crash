@@ -103,14 +103,18 @@
 			</dict>
 			<key>Hour 08 - Speculation.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>525668697.57090002</real>
 				<key>lastModification</key>
-				<real>525668608.43022799</real>
+				<real>525668697.57090002</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 					<integer>66</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>45</integer>
+					<integer>49</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -131,14 +135,18 @@
 			</dict>
 			<key>Hour 08 - The Hold.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>525668697.54657602</real>
 				<key>lastModification</key>
-				<real>525668608.43040299</real>
+				<real>525668697.54657602</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 					<integer>66</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>46</integer>
+					<integer>48</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -216,13 +224,13 @@
 			<key>Interlude (Star).md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521623163.835244</real>
+				<real>525668714.65789402</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>38</integer>
+					<integer>66</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>28</integer>
+					<integer>51</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -236,9 +244,6 @@
 		</array>
 		<array>
 			<string>Interlude (Space).md</string>
-		</array>
-		<array>
-			<string>Interlude (Star).md</string>
 		</array>
 		<array>
 			<string>Hour 08 - Emily.md</string>
@@ -263,6 +268,9 @@
 			<string>Hour 08 - Speculation.md</string>
 		</array>
 		<array>
+			<string>Interlude (Star).md</string>
+		</array>
+		<array>
 			<string>Interlude (Midia).md</string>
 		</array>
 		<array>
@@ -283,7 +291,7 @@
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 			<integer>66</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-			<integer>47</integer>
+			<integer>51</integer>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 			<integer>15</integer>
 		</dict>
