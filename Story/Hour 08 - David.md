@@ -59,9 +59,9 @@ It’s not that.
 What then?
 His flight path was all wrong.
 What?
-To get to where he was, he would have had to fly perpendicular to *Nereid*’s decay for quite some time.
+To get to where he was, he would have had to fly perpendicular to *Nereid*’s orbital decay for quite some time.
 So? He was trying to avoid the wake.
-But that makes no sense to go that far. You wouldn’t fly out where nobody could find you. Especially if you had no comms and only flares.
+But it makes no sense to go that far. You wouldn’t fly out where nobody could find you. Especially if you had no comms and only flares.
 Who knows what he was thinking? Maybe he really was trying to end it.
 He was also pointed the wrong way.
 So he turned around to land?
@@ -69,7 +69,8 @@ His trench was to the north. He didn’t just turn around, he came down from the
 Maybe he got lost, David said. Or he couldn’t clear the autopilot.
 That’s not the most disturbing thing.
 What do you mean?
-The boy coughed and spat and gurgled, then tented his back in spasm.
+Didn’t you guys notice?
+Suddenly the boy coughed and spat and gurgled, then tented his back in spasm.
 Holy shit.
 David turned to Carl.
 Find someone.
@@ -77,7 +78,8 @@ He held the boy’s shoulder and told him he was alive and safe, but the boy sta
 I think that’s Han, Gassy said.
 The boy tilted his head side to side. He let fly blood and spittle, his voice surprisingly strong. Then he seemed to seize. Gassy helped hold down the other shoulder but the boy’s muscles were ropey and powerful. His neck bulged with cords. He struggled and went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
 ---- 
-Gassy ran off at some point after the medics came to sedate the boy. They found her atop the hold by the spire overlooking the edge of its maw, sitting on its globe-like hull. She’d kept her goggles on but her mask hung around her throat by its straps. They approached her from behind as running lights went off around them, blinking dumbly as though still attached to a ship. As they drew near David looked out across the black world and the flames on its horizon, and the transport far below, tall and oblong as the pump of a giant shotgun. It lay dark and dead and the reluctant yellow glow of its chemical backup beacons were an escaping spirit. Frost consumed the hull in great crystalline chunks.
+Gassy ran off at some point after the medics came to sedate the boy. They found her atop the hold by the spire overlooking the edge of its maw, sitting on its globe-like hull. She’d kept her goggles on but her mask hung around her throat by its straps. They approached her from behind as running lights went off around them, blinking dumbly as though still attached to a ship. 
+As they drew near David looked out across the black world and the flames on its horizon, each with a funnel of smoke expanding upwards without limit, and the transport far below, an extruded oblong bulk, utilitarian in design. It lay dark and dead and the reluctant yellow glow of its chemical backup beacons were an escaping spirit. Frost consumed the hull in great crystalline chunks.
 How’s our boy? she asked.
 Still asleep.
 The skies are empty.
@@ -102,4 +104,26 @@ She turned to him cigarette dead in her mouth.
 Lucky.
 At least those aren’t plasma fires, or we’d be irradiated by now.
 Yeah. We’re all shades of lucky.
-Well, come on, David said. How did you think it would end? It’s a miracle we made it this far. 
+Well, come on, David said. How did you think it would end? It’s a miracle we made it this far. Do you know how often I lay in my bunk and heard the engines cycle just a little too long and I thought, this is it. This is where we stop. Where the stars take our bones. But no, every time the cycle went on. We went on.
+I thought we’d never launch, Carl replied. I thought we’d all bought it when the Leviathan hit the city. Or even earlier, in all the protests—
+Okay, Gassy said. Okay. Lucky. I get it.
+You’re wishing someone else had survived, aren’t you?
+I’m wishing *anyone* else had survived. As long as they’re not engineers, that is.
+How so?
+Fat lot of good we are. No ship left to fix. All our technology, down in the drink somewhere. She re-lit the cigarette and dragged. Useless.
+No, David said.
+No?
+We’re not useless. We’re exactly as useful as we think we are.
+Which is not at all?
+What if we refuel that transport and fly it down to *Nereid*? Like a deep-sea salvage.
+That’s going to be tough cause it’s missing windows, Carl replied. And the ventral doors.
+That spacecraft is missing windows and doors?
+Didn’t you notice?
+We’re luckier than I thought. Fine. There’s something else we can do.
+Like what? Gassy passed the cigarette back and pulled her hood back. Our Leviathan roams the heavens no longer. We’re flotsam. Jetsam. Obsolete in the new world.
+Another party of dragoons marched up the hold’s frozen wake, the glow of their pikes coming slowly into view. Their shadows formed as they stepped into the light and snaked behind them over the pits and sinews of ice.
+The orbitals, Carl said. They’re still up there, right?
+Last I checked.
+
+
+
