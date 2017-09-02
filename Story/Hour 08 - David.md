@@ -11,7 +11,7 @@ A heavyset medic in a bloody apron with pigeonhole scopes over his eyes flanked 
 What happened to this one?
 We don’t know, David replied. We found him like this.
 How long ago?
-Right when it got dark. How long was that?
+Around our last call. How long was that?
 Where was he?
 On the deck of a scout.
 Stop it here.
@@ -20,42 +20,41 @@ The medic inspected the crater of the boy’s face, the ridges of skin, then pul
 So who shot him? the medic asked.
 What?
 Shot him? Gassy yelled.
-He’s been shot with a compressor gun at close range. Probably a sidearm. He mimed a gunbarrel against his cheekbone.
-Who the fuck would shoot him? David answered. Who the fuck would shoot anyone at a time like this?
+He’s been shot with a compressor round at close range. Probably your standard sidearm. He mimed a gunbarrel against his cheekbone with his thumb as hammer.
+Who the fuck would shoot him? David answered. Who would shoot anyone at a time like this?
 There’s nothing we can do for him, the medic replied curtly, and stepped past David.
 Wait a goddamn minute. We risked our asses to bring him in. 
 There’s nothing we can do.
 He’s still alive! He’s still breathing. 
-Gassy stepped in his path but the medic only stepped around her.
-Get back here and do your job! she yelled. You fucking disgrace! A few dirty faces looked to them like sunflowers, mostly older men, builders with grey beards and stony eyes gathered around the barrels of flame. For what little time they had been shipwrecked they sure looked like hell. The medic came back looking around calmly.
-I got no time to waste on a suicide, flyboys.
+Gassy stepped in his path but the medic only stepped around her too.
+Get back here and do your job! she yelled. You fucking disgrace! A few dirty faces looked to them like sunflowers, mostly older men distracted from their barrels of flame. Builders with grey beards and stony eyes. For what little time they had been shipwrecked they sure looked like hell. 
+The medic came back looking around and spoke calmly.
+Look, flyboys, I got no time to waste on a suicide.
 Suicide?
 Plenty of people here fighting to stay alive. Me? I’m going to help them.
-You don’t know it was suicide!
+What do you mean suicide?
 I did my rounds in the Harem district. You see these all the time. Gun pressed against your temple, bang. Your aim is off, the muzzle points forward and takes off half your face. Seen it half a dozen times.
 Does it matter what happened to him? David said. What kind of doctor are you?
-The medic jogged away, stepping lively over cables to the onrush that stumbled over the ramp.
-A female medic rushed in, unknowable under her multi-eyed scopes and masks. Her once-white scrubs ran brown with unspeakable stains. She uncapped a syringe with her teeth and spat the cap to the deck, then injected its contents into the boy’s arm.
-This is for the pain, she said. But there’s really nothing we can do for a wound like this. Set him down over there. Tell them he’s a black card.
+The medic let out a deep breath, out of exhaustion, out of acquiescence perhaps. 
+There’s really nothing we can do for a wound like this. Set him down over there. Tell them he’s a black card.
 But—
-I’m sorry, the woman said. They’ll make him comfortable.
-What—?
-And the woman ran off to a squad of incoming dragoons bearing survivors wrapped in blankets, receiving each one of them and laying them down on the deck like mummified prized. The three engineers stood bewildered, their stretcher obstructing traffic.
-Come on, David said. Carl led the way through a mess of shouting crew. Ahead of them some workmen from another squad of engineers ran with headlamps bobbing, carrying heavy metal sealers and power supplies. At his feet cables coiled and flowed across the deck. They ducked under a sudden pop of sparks and transferred the boy to a row of boxes. But there was no medic in sight so they waited with him.
-Gassy had pulled her hood down and set her goggles atop her forehead. Her cheeks flushed and her face ran with sweat. Her short yellow-white hair glowed faintly in the overheads. Carl sat on the floor, his motions surprisingly quick for a man of his size. His hands went to his head like bearclaws and he pulled off his gear. He sat sweating with his lower lip in a pout.
+They’ll make him comfortable.
+And the medic ran off to a squad of incoming dragoons bearing survivors wrapped in blankets, receiving each one of them and laying them down on the deck like mummified remains. The three engineers stood bewildered among the hearths and huddled forms, their stretcher obstructing traffic.
+Over there, David said. Carl led the way through the shouting crowd. Ahead of them some workmen from another squad of engineers ran with headlamps bobbing, carrying heavy metal sealers and power supplies. At their feet cables coiled and flowed across the deck. They ducked under a sudden pop of sparks  from some contraption of lights and cables and transferred the boy to a set of boxes, the last entry in a row of casualties. There were no medics in sight.
+Gassy pulled her hood down and set her goggles atop her forehead. Her cheeks flushed and her face ran with sweat. Her short yellow-white hair glowed faintly in the overheads. Carl sat on the floor, his motions surprisingly quick for a man of his size. His hands went to his head like bearclaws and he pulled off his gear. He sat sweating with his lower lip in a pout.
 Can you believe that asshole, Gassy said. Suicide.
 David sighed. People get crazy. If it was, I don’t blame him.
 How can you say that?
-Poor guy lands, all alone down there. Sees *Nereid* gone down. For all he knows, he’s the last man alive. All of his comms smashed, doesn’t see or hear from anyone. If I thought I was the last man alive I’d consider ending it. 
+Poor guy lands, all alone down there. Sees *Nereid* gone down. For all he knows, he’s the last man alive. All of his comms smashed, doesn’t see or hear from anyone. Doesn’t know if he’ll ever see or hear from anyone again. If I was him I’d consider it.
 He sighed again. Shook his head. 
 Now *I’m* being the asshole.
 But that makes no sense! Someone sent a flare up.
 If no one secures a lander after touchdown the computer will send one up after a while.
-If it even works.
+When was the last time you saw a computer do what it was supposed to?
 Gassy sat beside Carl and leaned on him. He was sullen, too sullen to mind. Or perhaps deep in thought.
-You okay? David asked him.
+You okay? she asked him.
 I don’t know, Carl said.
-I’m sure others made it, Gassy replied. They’re still bringing new people in all the time. You saw.
+I’m sure others made it, she replied. They’re still bringing new people in all the time. You saw.
 It’s not that.
 What then?
 His flight path was all wrong.
@@ -66,19 +65,19 @@ But that makes no sense to go that far. You wouldn’t fly out where nobody coul
 Who knows what he was thinking? Maybe he really was trying to end it.
 He was also pointed the wrong way.
 So he turned around to land?
-His trench was to the north. He didn’t just turn around, he came down from the north facing south at *combat landing speeds.* That’s a hell of a strange flight path. Not to mention how he managed to fuel up a scout to make it that far while we were going down.
-Maybe he got lost, Gassy said. 
+His trench was to the north. He didn’t just turn around, he came down from the north facing south at *combat landing speeds.* That’s a hell of a strange flight path. Not to mention how he managed to fuel up a scout to make it that far while *Nereid* was going down.
+Maybe he got lost, David said. Or he couldn’t clear the autopilot.
 That’s not the most disturbing thing.
 What do you mean?
-The boy coughed and spat and gurgled. He tented his back in spasm.
+The boy coughed and spat and gurgled, then tented his back in spasm.
 Holy shit.
 David turned to Carl.
 Find someone.
-He held the boy’s shoulder and told him he was alive and safe, but the boy started shouting in long unbroken streams. Incomprehensible. The rows of injured turned to look, some cowering, but most in fascination. A few approached timidly.
+He held the boy’s shoulder and told him he was alive and safe, but the boy started shouting in long unbroken streams. As though shouting for his life. Incomprehensible. The rows of injured turned to look, some cowering, but most in fascination. A few approached timidly.
 I think that’s Han, Gassy said.
-The boy tilted his head side to side. It was a miracle what was left of him could talk. Then he seemed to seize. Gassy helped hold down the other shoulder but the boy’s muscles were ropey and surprisingly powerful. His neck bulged with cords. He struggled and went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
+The boy tilted his head side to side. He let fly blood and spittle, his voice surprisingly strong. Then he seemed to seize. Gassy helped hold down the other shoulder but the boy’s muscles were ropey and powerful. His neck bulged with cords. He struggled and went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
 ---- 
-Gassy ran off at some point after the medics came to sedate the boy. They found her atop the hold by the spire overlooking the edge of its maw, sitting on its globe-like hull. Her gaze focused deep into the black world and the flames on its horizon, and the transport far below, tall and oblong as the pump of a giant shotgun. Its portholes lay dark and its chemical backup lights glowed a reluctant yellow over its frosted and crystalline hull. She’d kept her goggles on but her mask hung around her throat by its straps. They approached her from behind as running lights went off around them, blinking dumbly as though still attached to a ship.
+Gassy ran off at some point after the medics came to sedate the boy. They found her atop the hold by the spire overlooking the edge of its maw, sitting on its globe-like hull. She’d kept her goggles on but her mask hung around her throat by its straps. They approached her from behind as running lights went off around them, blinking dumbly as though still attached to a ship. As they drew near David looked out across the black world and the flames on its horizon, and the transport far below, tall and oblong as the pump of a giant shotgun. It lay dark and dead and the reluctant yellow glow of its chemical backup beacons were an escaping spirit. Frost consumed the hull in great crystalline chunks.
 How’s our boy? she asked.
 Still asleep.
 The skies are empty.
@@ -91,7 +90,7 @@ She nodded and went back to contemplating the night.
 We tried, David said. We tried. We did all we could.
 But…
 I know.
-It’s just so…
+It’s just so goddamn…
 I know. But we tried.
 What do we do now?
 Keep going, I guess.
@@ -103,8 +102,4 @@ She turned to him cigarette dead in her mouth.
 Lucky.
 At least those aren’t plasma fires, or we’d be irradiated by now.
 Yeah. We’re all shades of lucky.
-That’s it, David said. We turn up the heat.
-What?
-The atmosphere pumps are still intact. They’re independent. We can wire them up to a generator or something.
-They both looked at him incredulous. 
-This may be the last bit of useful engineering we do in our lives. Come on. What would they think if they saw us sitting around?
+Well, come on, David said. How did you think it would end? It’s a miracle we made it this far. 
