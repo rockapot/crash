@@ -27,7 +27,7 @@ Wait a goddamn minute. We risked our asses to bring him in.
 There’s nothing we can do.
 He’s still alive! He’s still breathing. 
 Gassy stepped in his path but the medic only stepped around her too.
-Get back here and do your job! she yelled. You fucking disgrace! A few dirty faces looked to them like sunflowers, mostly older men distracted from their barrels of flame. Builders with grey beards and stony eyes. For what little time they had been shipwrecked they sure looked like hell. 
+Get back here and do your job! she yelled. You fucking disgrace! A few dirty faces looked to them like sunflowers, mostly older men distracted from their barrels of flame. Builders with grey beards and stone encroaching on their faces. A few fanned their metal limbs before them. For what little time they had been shipwrecked they sure looked like hell. 
 The medic came back looking around and spoke calmly.
 Look, flyboys, I got no time to waste on a suicide.
 Suicide?
@@ -105,7 +105,7 @@ Lucky.
 At least those aren’t plasma fires, or we’d be irradiated by now.
 Yeah. We’re all shades of lucky.
 Well, come on, David said. How did you think it would end? It’s a miracle we made it this far. Do you know how often I lay in my bunk and heard the engines cycle just a little too long and I thought, this is it. This is where we stop. Where the stars take our bones. But no, every time the cycle went on. We went on.
-I thought we’d never launch, Carl replied. I thought we’d all bought it when the Leviathan hit the city. Or even earlier, in all the protests—
+I thought we’d never launch, Carl replied. I thought we’d all bought it when the ship hit the city. Or even earlier, in all the protests—
 Okay, Gassy said. Okay. Lucky. I get it.
 You’re wishing someone else had survived, aren’t you?
 I’m wishing *anyone* else had survived. As long as they’re not engineers, that is.
@@ -120,10 +120,11 @@ That’s going to be tough cause it’s missing windows, Carl replied. And the v
 That spacecraft is missing windows and doors?
 Didn’t you notice?
 We’re luckier than I thought. Fine. There’s something else we can do.
-Like what? Gassy passed the cigarette back and pulled her hood back. Our Leviathan roams the heavens no longer. We’re flotsam. Jetsam. Obsolete in the new world.
+Like what? Gassy passed the cigarette back and pulled her hood back. Our Leviathan no longer roams the heavens. We’re flotsam. Jetsam. Obsolete in the new world.
 Another party of dragoons marched up the hold’s frozen wake, the glow of their pikes coming slowly into view. Their shadows formed as they stepped into the light and snaked behind them over the pits and sinews of ice.
 The orbitals, Carl said. They’re still up there, right?
-Last I checked.
+Last I checked. Why? What are you thinking?
+
 
 
 
