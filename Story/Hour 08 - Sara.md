@@ -47,8 +47,8 @@ And the lantern carved canyons across Sara’s young face as Em brought it back 
 “Inside . . .” She looked down to her right shoulder, craned her neck, but the angle was impossible and the light too feeble. She snapped her head back towards Em and shook the disfigured cylinder of her left arm. “More of this?”
 “Yes.”
 “Everywhere?”
-“I don’t know.”
-“You don’t *know?*” Sara’s eyes grew and her teeth were white in the lanternflame. She looked around in the black but the crates blocked her line of sight to all but the tallest scaffolds. All around she searched as though looking for help, a second opinion, relief from this madwoman before her.
+“Probably.”
+“*Probably?*” Sara’s eyes grew and her teeth were white in the lanternflame. She looked around in the black but the crates blocked her line of sight to all but the tallest scaffolds. All around she searched as though looking for help, a second opinion, relief from this madwoman before her.
 “I’m sorry, I . . . From what I could see, at least inside your chest. You didn’t know?”
 “How the fuck would I know?”
 “I’m sorry, I—”
@@ -58,7 +58,7 @@ And the lantern carved canyons across Sara’s young face as Em brought it back 
 Em closed her eyes. Blessed mother what could she say? Was there a protocol for this?
 “Your upper torso. Likely your heart. Your lungs.” And she added in a whisper: “Maybe more.”
 Sara sat back with eyes stunned and watery and Em felt her own tears coming. Footfalls of a formation approached from behind her, the rattle of a drip line on the grated deck. She took a bandage—no, two, three—and leaned forward and wiped tears from the girl’s face. 
-*Mother Star, if you’re there, if you’re merciful, just freeze time, let me stay with this one. She’s not dying but look at her she’s naked and she’s terrified. Mother Star please.*
+*Mother Star, please let me stay with this one, just a bit longer.*
 The spotlight returned, bright from behind Em, but this time Sara paid it no mind.
 “Em? Is that you?” said a male voice on the other side of the beacon.
 “Get out of here!” Em shouted back.
@@ -68,7 +68,7 @@ The light swung away. The man left running to the maw and Em turned to Sara agai
 “What happened to me?”
 “I swear I don’t know, baby.”
 “What am I?” And she drew her knees up to her head. Em tore her own jacket off and draped it over her. 
-“Stay here.”
+“Stay here. God I hate to leave you but I think you’re safe from infection.”
 “Where are you going?”
 “They found more survivors.”
 “Of what?”

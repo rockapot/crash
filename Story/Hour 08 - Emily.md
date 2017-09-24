@@ -1,6 +1,6 @@
 ## Emily
 ### Hour 08
-A fine mist of blood on Mica’s scopes, her face, everywhere. Dripping across her forehead and into her sputtering mouth. She turned frantically between Em and her patient. She was wrist-deep in a gash on the inner thigh of a young Han boy, maybe fifteen years old, trying to clamp his femoral. He was well-built but thin, stripped down to his skivvies.
+A fine mist of blood clouded Mica’s scopes, her face, all of her. Dripping across her forehead and into her sputtering mouth. She turned frantically between Em and her patient. She was wrist-deep in a gash on the inner thigh of a young Han boy, maybe fifteen years old, trying to clamp his femoral. He was well-built but thin, stripped down to his skivvies.
 “Em, help me close!”
 Em grabbed the protoplaser with both hands and hefted it across the deck. A blessed working unit scavenged with the last round of survivors. She clunked it down in the vee of the boy’s legs and started to focus. A spotlight swung briefly overhead before leaving the deck in the waxy yellow glow of lanterns and mirrors.
 “Clamp it.” 
