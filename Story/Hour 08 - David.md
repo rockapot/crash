@@ -1,14 +1,15 @@
 ## David
 ### Hour 08
-A howl of engine, then a rush of voices. David allowed himself a single look back at the transport and squinted at its landing lights bright as a row of suns in the sky. A pounding tunnel of snow fell like stardust in their wake, mixed in with vapor from the jets. The clouds had blocked out the real stars that night. In space all light was artificial, all darkness absolute. He longed for the daytime when they first made planetfall. Together with his companions he stretchered the boy along the gantry, where the wind and powder that stuck to his hair and bare chest. The boy’s face was a crushed and bloody bowl under a veil of concave fabric bleeding out the edges. 
-Five or six field medics ran past, carrying bags and lines and kits, stepping lively through the compacted ice and debris around the landing site. Before them the cargo hold loomed with its mouth wide open big enough to swallow the transport ten times over. The transport had landed outside, a distance from the glowing structure. Inside were warm fires and torches and drapes of cloth put up as shields that bore shadowpuppet projections of the crew on their surface.
-They followed the medics close behind. He turned every so often to Gassy at his side, Carl on the other end of the stretcher in front, all three in parkas so swollen that he could barely tell who was who. Fur rings at their hoods and breathing masks made strangers of them all. Around them the dragoons gathered in curved helmets and mouthpieces like beaks.
-He looked down at the boy and thought back to that morning and the evac, after their shuttle rammed into the surface and the snow and rock gutted the hull around them, torn metal and sparks flying this way and that along the cabin fast as the stars themselves, too fast to dodge. Four of them strapped in and immobile. They landed upside down and three of them cut themselves out of their restraints and set about immediately trying to cut Rickon out of his as well. But his seat was crushed behind a cage of piping and they couldn’t get him loose, they worked and worked but couldn’t get him loose. They strapped lines to themselves and to the pipes and pulled like mules but the wreckage wouldn’t budge. All the while Rickon, the big guy from past the Dust Line, the homesteader’s kid who would still put on his fatigues backwards after a hard night of drinking, he grinned through his bloody teeth, made calm like nothing was wrong. As the morning went on he started to turn purple. He said I know you tried and that’s all I could ask for but it’s survival first and friendship later. The three of them told him to be quiet, that they were almost there, they tried new anchor points, made more complicated pulleys from the lines and cables but during their machinations Rickon had passed on gently as stepping out of a room, leaving the three of them to dot the landscape on the long journey to the hold.
+A howl of engine, then a rush of voices. How routine it felt now to step on the surface of the new world mere hours since planetfall. David allowed himself a single look back at the transport and squinted at its landing lights bright as a row of suns in the black sky. Artificial, like all light in space. A pounding tunnel of snow fell like stardust in their wake, mixed in with vapor from the jets. Of all the infinite promise and dimension of this new place how tragic it was to be drawn to the remnants of life aboard *Nereid.*
+Together with his companions he stretchered the boy along the gantry, where the wind and stinging powder assailed them. The boy’s face was a crushed and bloody bowl under a veil of concave fabric bleeding out the edges but still his chest rose and fell under the tarp that covered him.
+Five or six field medics ran past them carrying bags and lines and kits, stepping lively through the compacted ice and debris around the landing site. The cargo hold loomed ahead with its mouth wide open big enough to swallow the transport ten times over. The transport had landed a short distance away. Inside were warm fires and torches and drapes of cloth put up as shields that bore shadowpuppet projections of the crew on their surface.
+They followed the medics close behind. He turned every so often to Gassy at his side, perhaps to make sure she hadn’t evaporated. Carl bore the other end of the stretcher in front. All three of them were in parkas so swollen that he could barely tell who was who. Fur rings at their hoods and breathing masks made strangers of them all. Around them the dragoons gathered in curved helmets and mouthpieces like beaks.
+He looked down at the boy and thought back to that morning and the evac. After their shuttle rammed into the surface and the snow and rock gutted the hull around them, torn metal and sparks flew and ricocheted along the cabin fast as the stars themselves, too fast to dodge. Four of them strapped in and immobile. They landed upside down and three of them cut themselves out of their restraints and set about immediately trying to cut Rickon out of his as well. But his seat was crushed behind a cage of piping and they couldn’t get him loose, they worked and worked but couldn’t get him loose. They strapped lines to themselves and to the pipes and pulled like mules but the wreckage wouldn’t budge. All the while Rickon, the big guy from past the Dust Line, the homesteader’s kid who would still put on his fatigues backwards after a hard night of drinking, he grinned through his bloody teeth, made calm like nothing was wrong. As the morning went on he started to turn purple. He said I know you tried and that’s all I could ask for but it’s survival first and friendship later. The three of them told him to be quiet, that they were almost there, they tried new anchor points, made more complicated pulleys from the lines and cables but during their machinations Rickon had passed on gently as stepping out of a room, leaving the three of them to dot the landscape on the long journey to the hold.
 But Rickon hadn’t really left them yet, not even earlier that night during a search-and-rescue in the beleaguered transport. When they saw the flare they thought of him. Carl spotted it first and they flew after it. Soon they sighted the scout nosedown in the northeast plain among the ice flows by the waterline. It was way outside the search grid for *Nereid* survivors, way outside the path that *Nereid* had struck on her descent. The scout transmitted no distress beacon, nothing. It was dumb luck and an even dumber move to set down with the transport carrying a boatload of survivors and only a pencil-thin searchbeam to guide them among the rocks. But the beach was long and flat and the imager found many potential landing sites. Carl reminded them that they had barely enough fuel to finish their run, let alone deviate. Gassy responded that the worst of the injured they had aboard were yellow cards and even if they did run out of fuel they’d make it within a few hundred feet, maybe a mile from the hold. The dozen or so crewmen they had rescued nodded groggily in silent agreement. David made the call. The same call all three of them had silently made as soon as they saw the flare from the flight deck’s narrow screens. But it would be on him if things should tank.
 Aboard the half-sunken scout it was Gassy who had swung her beacon around onto the boy, stepped across monstrous cantilevered arms of wreckage and found a pulse on his neck, stated in all calmness that he was still alive. Whatever hit him had taken out the orbits of his eyes and most of his cheekbones but left the brain underneath intact. He still drew breath from a pit where his nose had been. David kept his eyes on her as she spoke, fixed straight on her and nowhere else, editing the faceless horror from his mind. He radioed ahead to the triage team and told them about incoming. Before he got any reply the scout pitched and rolled and deck slanted into dark water. David and Carl got their tethers out in time and Gassy found a foothold with her back to the base of a secure worktable and cradled the boy against herself like some mutant child. Of the ensuing minutes David remembered little, only that he and Carl threw Gassy their lines, she wrapped them around the boy and they hauled him up and it wasn’t until Carl was bearing the boy out the scout’s airlock that she finally came up herself and and it was all he could do to yell *move! move!* until they emerged from the dark sarcophagus of the scout splashing water and crunching pebbles underfoot. 
-By some heavenly alignment the boy lived on. Everyone on the transport parted to let him lie on the floor, retreating up the bulkheads up to the portholes. Like he was a leper or a miracle, they couldn’t decide which. Those that could stand bandaged and in slings did so, grabbing the overhead lines and struts with their good arms. Gassy sat beside him on the deck and held him steady by the shoulders while the craft around them rose and pitched in turbulence. David rode in the back where he manually dialed the pressure on the reserve tank to eke out every last ounce of fuel. Right when he thought it would rupture they sputtered to a landing.
-Now they bore the boy up the switchbacked ramps into the hold. They dashed and ducked among the swarms within, amid the drapes and the scaffolds and crewmen alternately rushing or limping. The deck was slick and layered in mud. Blue fires burned left and right in storage barrels were a few crowds gathered around them like homeless. They were burning the conductive gel from the power grid. A good source of heat in a pinch but such a waste of megajoules.
-A heavyset medic in a bloody apron with pigeonhole scopes over his eyes flanked him, peered under the cloth on the boy’s face while yelling from behind his mask.
+By some miracle the boy lived on. Everyone on the transport parted to let him lie on the floor, retreating up the bulkheads up to the portholes. Like he was a leper or a miracle, they couldn’t decide which. Those that could stand bandaged and in slings did so, grabbing the overhead lines and struts with their good arms. Gassy sat beside him on the deck and held him steady by the shoulders while the craft around them rose and pitched in turbulence. David rode in the back where he pumped the reserve tank to eke out every last ounce of fuel. Right when he thought it would rupture they sputtered to a landing and now they bore the boy up the switchbacked ramps into the hold.
+They dashed and ducked among the swarms within, amid the drapes and the scaffolds and crewmen alternately rushing or limping. The deck was slick and layered in mud. Blue fires burned left and right in storage barrels were a few crowds gathered around them like homeless. They were burning the conductive gel from the power grid. A good source of heat in a pinch but such a waste of megajoules.
+A heavyset medic in a bloody apron with pigeonhole scopes over his eyes flanked them, peered under the cloth on the boy’s face while yelling from behind his mask.
 What happened to this one?
 We don’t know, David replied. We found him like this.
 How long ago?
@@ -29,8 +30,9 @@ There’s nothing we can do.
 He’s still alive! He’s still breathing. 
 Gassy stepped in his path but the medic only stepped around her too.
 Get back here and do your job! she yelled. You fucking disgrace! A few dirty faces looked to them like sunflowers, mostly older men distracted from their barrels of flame. Builders with grey beards and stone encroaching on their faces. A few fanned their metal limbs before them. For what little time they had been shipwrecked they sure looked like hell. 
+Easy, David said, as calm as he could.
 The medic came back looking around and spoke calmly.
-Look, flyboys, I got no time to waste on a suicide.
+I got no time to waste on a suicide.
 Suicide?
 Plenty of people here fighting to stay alive. Me? I’m going to help them.
 What do you mean suicide?
@@ -41,6 +43,7 @@ There’s really nothing we can do for a wound like this. Set him down over ther
 But—
 They’ll make him comfortable.
 And the medic ran off to a squad of incoming dragoons bearing survivors wrapped in blankets, receiving each one of them and laying them down on the deck like mummified remains. The three engineers stood bewildered among the hearths and huddled forms, their stretcher obstructing traffic.
+---- 
 Over there, David said. Carl led the way through the shouting crowd. Ahead of them some workmen from another squad of engineers ran with headlamps bobbing, carrying heavy metal sealers and power supplies. At their feet cables coiled and flowed across the deck. They ducked under a sudden pop of sparks  from some contraption of lights and cables and transferred the boy to a set of boxes, the last entry in a row of casualties. There were no medics in sight.
 Gassy pulled her hood down and set her goggles atop her forehead. Her cheeks flushed and her face ran with sweat. Her short yellow-white hair glowed faintly in the overheads. Carl sat on the floor, his motions surprisingly quick for a man of his size. His hands went to his head like bearclaws and he pulled off his gear. He sat sweating with his lower lip in a pout.
 Can you believe that asshole, Gassy said. Suicide.
@@ -48,7 +51,7 @@ David sighed. People get crazy. If it was, I don’t blame him.
 How can you say that?
 Poor guy lands, all alone down there. Sees *Nereid* gone down. For all he knows, he’s the last man alive. All of his comms smashed, doesn’t see or hear from anyone. Doesn’t know if he’ll ever see or hear from anyone again. If I was him I’d consider it.
 He sighed again. Shook his head. 
-Now *I’m* being the asshole.
+Forget I said that. Now *I’m* being the asshole.
 But that makes no sense! Someone sent a flare up.
 If no one secures a lander after touchdown the computer will send one up after a while.
 When was the last time you saw a computer do what it was supposed to?
@@ -77,7 +80,7 @@ David turned to Carl.
 Find someone.
 He held the boy’s shoulder and told him he was alive and safe, but the boy started shouting in long unbroken streams. As though shouting for his life. Incomprehensible. The rows of injured turned to look, some cowering, but most in fascination. A few approached timidly.
 I think that’s Han, Gassy said.
-The boy tilted his head side to side. He let fly blood and spittle, his voice surprisingly strong. Then he seemed to seize. Gassy helped hold down the other shoulder but the boy’s muscles were ropey and powerful. His neck bulged with cords. He struggled and went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
+The boy tilted his head side to side. He let fly blood and spittle, his voice surprisingly strong. Then he seemed to seize. Gassy held down his other shoulder but the boy’s muscles were ropey and powerful. His neck bulged with cords and he went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
 ---- 
 Gassy ran off at some point after the medics came to sedate the boy. They found her atop the hold by the spire overlooking the edge of its maw, sitting on its globe-like hull. She’d kept her goggles on but her mask hung around her throat by its straps. They approached her from behind as running lights went off around them, blinking dumbly as though still attached to a ship. 
 As they drew near David looked out across the black world and the flames on its horizon, each with a funnel of smoke expanding upwards without limit, and the transport far below, an extruded oblong bulk, utilitarian in design. It lay dark and dead and the reluctant yellow glow of its chemical backup beacons were an escaping spirit. Frost consumed the hull in great crystalline chunks.
@@ -105,26 +108,24 @@ She turned to him cigarette dead in her mouth.
 Lucky.
 At least those aren’t plasma fires, or we’d be irradiated by now.
 Yeah. We’re all shades of lucky.
-Well, come on, David said. How did you think it would end? It’s a miracle we made it this far. Do you know how often I lay in my bunk and heard the engines cycle just a little too long and I thought, this is it. This is where we stop. Where the stars take our bones. But no, every time the cycle went on. We went on.
-I thought we’d never launch, Carl replied. I thought we’d all bought it when the ship hit the city. Or even earlier, in all the protests—
-Okay, Gassy said. Okay. Lucky. I get it.
-You’re wishing someone else had survived, aren’t you?
-I’m wishing *anyone* else had survived. As long as they’re not engineers, that is.
+Well, come on, David said. How did you think it would end? It’s a miracle we made it this far. Do you know how often I lay in my bunk and heard the engines cycle just a little too long and I thought, this is it. This is where we stop. Where the stars take our bones. But no, every time we kept going. We went on.
+I thought we’d never launch, Carl replied. I thought we’d all bought it when the ship hit the city. Or even earlier—
+Okay, Gassy said. Okay. Lucky. I get it. I just wish— She caught herself a moment. I wish someone else had survived. Other than me.
 How so?
-Fat lot of good we are. No ship left to fix. All our technology, down in the drink somewhere. She re-lit the cigarette and dragged. Useless.
+Fat lot of good I am. No ship left to fix. All our technology, down in the drink somewhere. She re-lit the cigarette and dragged. Useless.
 No, David said.
 No?
 We’re not useless. We’re exactly as useful as we think we are.
-Which is not at all?
+She didn’t even turn to look at him.
 What if we refuel that transport and fly it down to *Nereid*? Like a deep-sea salvage.
-That’s going to be tough cause it’s missing windows, Carl replied. And the ventral doors.
-That spacecraft is missing windows and doors?
+That’s going to be tough cause it’s missing windows, Carl replied.
+That spacecraft is missing windows?
 Didn’t you notice?
-We’re luckier than I thought. Fine. There’s something else we can do.
-Like what? Gassy passed the cigarette back and pulled her hood back. Our Leviathan no longer roams the heavens. We’re flotsam. Jetsam. Obsolete in the new world.
+Fine. There’s something else we can do.
+Like what? Gassy passed the cigarette back and pulled her hood back. Our Leviathan is no longer a creature of the sky. We’re flotsam. Obsolete in the new world.
 Another party of dragoons marched up the hold’s frozen wake, the glow of their pikes coming slowly into view. Their shadows formed as they stepped into the light and snaked behind them over the pits and sinews of ice.
 The orbitals, Carl said. They’re still up there, right?
 Last I checked. Why? What are you thinking?
-
+If we could link up with them, we could at least use their imagers to scan the surface.
 
 
