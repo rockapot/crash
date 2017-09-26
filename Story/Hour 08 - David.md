@@ -83,12 +83,12 @@ David turned to Gassy.
 Find someone.
 He held the boy’s shoulder and told him easy and he was safe, but the boy started shouting in long unbroken streams. As though shouting for his life. It was incomprehensible. Among the rows of injured a few round eyes looked on timidly, their faces hidden behind cupped hands and dressings.
 I think that’s Han, Carl said.
-The boy tilted his head from side to side. He let fly blood and spittle, his voice surprisingly strong. Then he seemed to seize. Carl held down his other shoulder but the boy’s muscles were ropey and powerful. His neck bulged with cords and he went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
+The boy tilted his head from side to side. He let fly blood and spittle, his voice surprisingly strong. Then he seemed to seize. Carl held down his other shoulder. The boy’s muscles were ropey and powerful. His neck bulged with cords and he went on cackling, squealing, like some shrill animal gifted with human speech but distinctly inhuman.
 ---- 
-Gassy ran off at some point after the medics came to sedate the boy. They found her atop the hold by the spire overlooking the edge of its maw, sitting on its globe-like hull. She’d kept her goggles on but her mask hung around her throat by its straps. They approached her from behind as running lights went off around them, blinking dumbly as though still attached to a ship. 
-As they drew near David looked out across the black world and the flames on its horizon, each with a funnel of smoke expanding upwards without limit, and the transport far below, an extruded oblong bulk, utilitarian in design. It lay dark and dead and the reluctant yellow glow of its chemical backup beacons were an escaping spirit. Frost consumed the hull in great crystalline chunks.
-How’s our boy? she asked.
+How’s our boy? Gassy asked.
 Still asleep.
+What are you doing?
+
 The skies are empty.
 For tonight, yes. No more fuel.
 Is it just us three then?
