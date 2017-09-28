@@ -45,16 +45,30 @@
 					<integer>15</integer>
 				</dict>
 			</dict>
-			<key>Hour 08 - Emily.md</key>
+			<key>Hour 08 - Emily - 2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524810627.815216</real>
+				<real>528266834.13550502</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>34</integer>
+					<integer>72</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>40</integer>
+					<integer>61</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Hour 08 - Emily.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528266816.63054001</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>72</integer>
+					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
+					<integer>60</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -69,20 +83,6 @@
 					<integer>66</integer>
 					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
 					<integer>42</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>15</integer>
-				</dict>
-			</dict>
-			<key>Hour 08 - Survivors.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524810627.81521797</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>34</integer>
-					<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-					<integer>40</integer>
 					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 					<integer>15</integer>
 				</dict>
@@ -178,12 +178,14 @@
 			<string>Interlude (Space).md</string>
 		</array>
 		<array>
-			<string>Hour 08 - Emily.md</string>
-			<string>Hour 08 - Survivors.md</string>
+			<string>Hour 08 - Emily - 2.md</string>
 			<string>Hour 08 - Sara.md</string>
 		</array>
 		<array>
 			<string>Hour 08 - David.md</string>
+		</array>
+		<array>
+			<string>Hour 08 - Emily.md</string>
 		</array>
 		<array>
 			<string>Hour 08 - Bodies.md</string>
@@ -215,7 +217,7 @@
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
 			<integer>72</integer>
 			<key>4ad3534063bc2674ee126311d00a5d8b7dd6dfbdd330af6667debbab6e7dc2c0</key>
-			<integer>57</integer>
+			<integer>62</integer>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 			<integer>15</integer>
 		</dict>
