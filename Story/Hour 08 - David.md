@@ -5,17 +5,17 @@ Together with his companions he stretchered the boy across the field, where the 
 Five or six field medics ran past them carrying bags and lines and kits, stepping lively through the compacted ice and debris.  They followed the medics close behind. He turned every so often to Gassy at his side, perhaps to make sure she hadn’t evaporated. Carl bore the other end of the stretcher in front. All three of them were in parkas so swollen that he could barely tell who was who. Fur rings at their hoods and breathing masks made strangers of them all. Around them the dragoons gathered in curved helmets and the snow grew heavier.
 ---- 
 He thought again to that morning and the evac. Their shuttle had rammed into the surface and the snow and rock gutted the hull around them. Torn metal flew and ricocheted inside the fuselage fast as the stars themselves, too fast to dodge. The whole engineering squad of twelve were strapped in and immobile. The shuttle skidded to a rest upside down and left them all suspended against their harnesses in midair. With just the skeleton of the hull remaining he could only look up at the ground and its stark whiteness unbroken by shadow. Height was impossible to judge. Five meters? Ten? The engines cycled down in a moan and debris thumped into the snow in the distance, followed by a cry of pain from around him. Blood rushed to his head and he couldn’t catch his breath. Gravity pushed him into his harness at an awkward angle. His hands shook and he fumbled at the release but it had jammed.
-Gassy’s voice from behind him somewhere. *Oh god look at you… Help!*
-No clue who she meant. He still couldn’t undo his harness. Maybe he could cut through it with his multitool but not without taking a plunge. The smell of fuel vapor surrounded him, and with it came lightheadedness and black punctuation on the white ground, the sky inverted. Maybe thirty seconds of useful consciousness left. No choice but to risk it. Carefully he reached across his lap and unfastened the pocket on his jumpsuit and worked the tool out with his fingers.
+Gassy’s voice from behind him somewhere. *Oh god. Help!*
+He still couldn’t undo his harness, couldn’t turn around to see. Maybe he could cut through it with his multitool but not without taking a plunge. The smell of fuel vapor surrounded him, and with it came lightheadedness and black punctuation on the white ground, the sky inverted. Maybe thirty seconds of useful consciousness left at this point. No choice but to risk it. Carefully he reached across his lap and unfastened the pocket on his jumpsuit and worked the tool out with his fingers.
 *We’ll get you. We’ll get you down.*
-Another cry of pain. He strained to look but overrode his curiosity to focus on not dropping things. Survival first, friendship later. He flipped out the blade clumsily and started to cut through his restraints.
+Another cry of pain. He strained to look but overrode his curiosity to focus on not dropping things. Survival first, friendship later. He flipped out the blade clumsily and started to cut through his restraints. Fumes eddied in the air before him.
 A different voice: *Anyone alive out there?*
 He wanted to reply but he couldn’t even scream.
 *Please, help me!*
 *Where are you?*
 *Help me! He’s hurt! He’s dying!*
 He didn’t remember falling but he did hit the ground and looked back up at the fishbone of structure left of the shuttle. The hull was gone; most of the harnesses were empty. They’d been  shoulder-to-shoulder when they launched at full capacity. Where did everyone go?
-Help him! Gassy was on the ground, one hand covering her mouth and the other pointing up at Rickon, still strapped in. His arms dangled limply above his purple head.
+Help him! Gassy was on the ground, one hand covering her mouth and the other pointing up at Rickon, still strapped in. His arms dangled limply above his head.
 We got to go, he called to her.
 He’s still up there!
 There’s a leak! He stumbled towards her and fell but somehow Carl had materialized beside him and helped him stand.
