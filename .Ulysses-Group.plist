@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>Facade</string>
 		<string>Story</string>
 		<string>Styles</string>
 	</array>
@@ -11,6 +12,18 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
+			<key>Facade</key>
+			<dict>
+				<key>lastModification</key>
+				<real>533804204.42068303</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>6</integer>
+					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
 			<key>Story</key>
 			<dict>
 				<key>lastModification</key>
@@ -36,246 +49,13 @@
 				</dict>
 			</dict>
 		</dict>
-		<key>countingGoal</key>
-		<real>517011961.24277598</real>
 		<key>sheetClusters</key>
-		<dict>
-			<key>About.txt</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516917246.00582099</real>
-				<key>lastModification</key>
-				<real>516917262.594396</real>
-				<key>version</key>
-				<dict>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>7</integer>
-				</dict>
-			</dict>
-			<key>Contents.txt</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516917245.98910201</real>
-				<key>lastModification</key>
-				<real>516917262.59439701</real>
-				<key>version</key>
-				<dict>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>7</integer>
-				</dict>
-			</dict>
-			<key>Hour 00 - Crash.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.01844299</real>
-				<key>lastModification</key>
-				<real>517011921.01844299</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>2</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Hour 01.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.01947099</real>
-				<key>lastModification</key>
-				<real>517011921.01947099</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>3</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Hour 04.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.017344</real>
-				<key>lastModification</key>
-				<real>517011921.017344</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>1</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Hour 06.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.02395999</real>
-				<key>lastModification</key>
-				<real>517011921.02395999</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>4</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Hour 13 - Sara.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.03367299</real>
-				<key>lastModification</key>
-				<real>517011921.03367299</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>6</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Hour 13 - Survivors.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.03572899</real>
-				<key>lastModification</key>
-				<real>517011921.03572899</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>7</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Hour 14 - David.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.03022599</real>
-				<key>lastModification</key>
-				<real>517011921.03022599</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>5</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>Interlude (Midia).md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517011921.03693801</real>
-				<key>lastModification</key>
-				<real>517011921.03693801</real>
-				<key>version</key>
-				<dict>
-					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>8</integer>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>36</integer>
-				</dict>
-			</dict>
-			<key>chapter1.txt</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516917246.079072</real>
-				<key>lastModification</key>
-				<real>516917262.59439999</real>
-				<key>version</key>
-				<dict>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>7</integer>
-				</dict>
-			</dict>
-			<key>chapter2.txt</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516917246.07952899</real>
-				<key>lastModification</key>
-				<real>516917262.59439898</real>
-				<key>version</key>
-				<dict>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>7</integer>
-				</dict>
-			</dict>
-			<key>chapter3.txt</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516917246.00510401</real>
-				<key>lastModification</key>
-				<real>516917262.59439802</real>
-				<key>version</key>
-				<dict>
-					<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-					<integer>7</integer>
-				</dict>
-			</dict>
-		</dict>
+		<dict/>
 		<key>userIconName</key>
 		<real>517000526.40836298</real>
 	</dict>
 	<key>sheetClusters</key>
-	<array>
-		<array>
-			<string>About.txt</string>
-		</array>
-		<array>
-			<string>Contents.txt</string>
-		</array>
-		<array>
-			<string>chapter3.txt</string>
-		</array>
-		<array>
-			<string>chapter2.txt</string>
-		</array>
-		<array>
-			<string>chapter1.txt</string>
-		</array>
-		<array>
-			<string>Hour 00 - Crash.md</string>
-			<string>Hour 01.md</string>
-			<string>Hour 04.md</string>
-			<string>Hour 06.md</string>
-		</array>
-		<array>
-			<string>Hour 13 - Survivors.md</string>
-			<string>Hour 13 - Sara.md</string>
-		</array>
-		<array>
-			<string>Hour 14 - David.md</string>
-		</array>
-		<array>
-			<string>Interlude (Midia).md</string>
-		</array>
-	</array>
+	<array/>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>userIconName</key>
@@ -285,16 +65,9 @@
 		<key>childOrder</key>
 		<dict>
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-			<integer>3</integer>
+			<integer>6</integer>
 			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
 			<integer>2</integer>
-		</dict>
-		<key>countingGoal</key>
-		<dict>
-			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-			<integer>2</integer>
-			<key>d7adcdc17210250e33fd73bc3387b89208eb9e5b55da2798b422ee71e5aadea1</key>
-			<integer>8</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
