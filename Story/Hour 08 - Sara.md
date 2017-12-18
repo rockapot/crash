@@ -49,7 +49,7 @@ And the lantern carved canyons across Sara’s young face as Em brought it back 
 “Everywhere?”
 “Probably.”
 “*Probably?*” Sara’s eyes grew and her teeth were white in the lanternflame. She looked around in the black but the crates blocked her line of sight to all but the tallest scaffolds. All around she searched as though looking for help, a second opinion, relief from this madwoman before her.
-“I’m sorry, I . . . From what I could see, at least inside your chest. You didn’t know?”
+“From what I could see, at least inside your chest. You didn’t know?”
 “How the fuck would I know?”
 “I’m sorry, I—”
 “How much of me is gone?”
