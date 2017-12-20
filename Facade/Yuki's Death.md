@@ -1,20 +1,3 @@
-*I step off the escalator and the rain rattles the glass dome of Tycho station, slapping against it like leathery sheets from the black sky. It’s much worse than I remember. They’ve turned it up to savage levels. It’s a goddamn monsoon, a waste of air, a waste of water, and all I can think is that this isn’t the place we grew up.*
-*To the man in front of me I ask: “Where is the funeral home?” But he grunts an answer, huffs away and disappears into the crowd. His suitcase draws twin tracks of wetness on the concrete and mixes with the other tracks and footprints to form a Byzantine web barely visible under the onslaught of travelers. Heels clack, voices murmur, the announcements run nonstop. A thin layer of steam rises.*
-*The people in the crowd I recognize even less. They wear layered coats and suits, gray but for the tinge of color: a lapel here, a rose there. Hypercolor shoes. As we pour out of the station’s dome they raise their transparent umbrellas and the lightshow above us blazes. Bright! Shapes and letters caught in midair, blinking, twisting, trails of marching ants circling them like cartouches. Girls and whisky and faraway sunsets. My umbrella is much more humble, it rises to blot out the signs.*
-*I pinball among the crowd between pretty faces and perfect haircuts and ask my question. I am rebuffed each time. Only one man stops to tell me he doesn’t know, then steps into the street, raising his newspaper above his head, and ducks into a taxi.*
-*Among the crowd I spot one like no other. A shorter, older woman, her face round and plain and unhurried. She stands under an awning by a butcher’s window and I join her and ask, “Madam, do you know this city?”*
-*She studies me, sees my tattered service coat, my worn-out shoes. My pack slung behind me overflowing with bulging shapes a foot above my head. My homely umbrella. “You lost, child?”*
-*“I’m looking for the funeral home.”*
-*“Which one?”*
-*“How do you mean?”*
-*“Which funeral home? In what district?”*
-*“We didn’t have districts when I grew up.”*
-*“Lord Almighty you’ve been gone. Not your city anymore, is it? Swept away is Tycho past!”*
-*“Help me find my way, then.”*
-*“A lot’s changed,” she says, eyeing the train tubes that pass above us in a spiderweb of crooked geometry. Air hisses the sound of tired pneumatics. The whole line shudders, and metal bends and groans unseen around us. Something crunches into the garbage bags down the block. “Huh,” she says. “Be wary you don’t carry that old city with you in the new. Good way to get devoured.”*
-*People pass around us, mixing with the molar-shaped taxis that trundle down the street. The crowd forms another state of matter, neither solid, nor liquid. A system of bidirectional particles. How could so many people be here by choice? I pull out my soggy ticket where I wrote down the address and I show it to the woman.*
-*“The Arms!” She is taken aback at the note. “Don’t go ye there. Less you wanted to see life at its worst.”*
-*She sends me to the train line I seek without further admonishment and melds into the passersby. I lift my umbrella to eye the world above the neon and moving screens. Barely visible in the halo of Tycho’s night the Earth hovers dull and grey and waning.*
 ---- 
 On 19 March 539, Yuki died of heart failure in her studio unit in the Asylum Arms, South Tycho. She was twenty-nine. At the time of her death she weighed ninety pounds. Paramedics descended on her balcony, dropping from lines anchored to hovering ambulances, their spotlights overpowering the haze of blue and pink signs. Neighbors would describe it akin to a commando raid, a drug bust. 
 But she was no dealer, no junkie. They found her hooked up to a tunneling unit, a piece of headgear that projected her consciousness instantaneously to a remote android unit elsewhere in the solar system. This way she commuted to Saturn’s moon Titan, where she worked for the last two years as a nurse’s assistant in a frontier hospital.
@@ -55,21 +38,9 @@ Why don’t you come with us? You’re from Luna.
 You do this, you’ll never work out of Lavinia again.
 Don’t plan to.
 I left, shaking my head, went down to get a coffee from the lounge and relax. I wound up eating half a vacuum packed meal and forgetting about my conversation with Yuki.
-I didn’t pick up her replies until our next window another two months out, when we were almost at L5. Things were going as Gunthrie had predicted: No salvage on our scopes. The vast pointlessness of space ringing heavy in our ears. We were coming out of a turbulent correction as I was eating in the lounge when her messages all came through, one after the other.
+I didn’t pick up her replies until our next window another two months out, when we were almost at L5. Things were going as Gunthrie had predicted: No salvage on our scopes. The vast pointlessness of space ringing in our ears. We manned the conn and did our rounds. Put on our fishbowls to go EV and chisel through intrastellar corrosion. Primed the deuterium pumps and swabbed the decks like monkeys sent into space a thousand years ago. We were coming out of a turbulent correction when her messages all came through, one after the other.
 *I wish I could tell you.*
 *Or show you.*
-*Life as we know it exists out of these lines.*
 And finally:
-*I have been to Jupiter and seen the Great Dying God.*
+*I have found God.*
 Along with these messages was another from the Lunar consulate at Lavinia, writing to inform me of her passing.
----- 
-I enter the funeral home, a tiny affair with a lobby of overly ornate furniture. Victorian, the ceiling is Rococo. Plush oval upholstery. My sister is standing there, she’s just arrived too. She’s in a hooded trench coat and face mask. She turns and pulls off the mask and gives a pained smile and puts her arms around my neck. It takes me a moment to realize her intentions and I return the embrace. After all, we’re family.
-I could have met you at the station.
-No pregnant sister of mine needs to pick me up. I can do just fine.
-I wasn’t sure you’d come.
-I said I would.
-I thought it was just one of those things you say. It’s good to see you, ge.
-How’s Rusty.
-Fine. With his folks. I asked him to give us some space.
-You didn’t have to do that. I can stay with Tyler. You shouldn’t put yourself out for me.
-Who else but you? She pulls away and turns around quickly, too quickly, maybe to hide her tears. 

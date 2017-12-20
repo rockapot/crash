@@ -1,0 +1,17 @@
+*I step off the escalator and the rain rattles the glass dome of Tycho station, slapping against it like leathery sheets from the black sky. It’s much worse than I remember. They’ve turned it up to savage levels. It’s a goddamn monsoon, a waste of air, a waste of water, and all I can think is that this isn’t the place we grew up.*
+*To the man in front of me I ask: “Where is the funeral home?” But he grunts an answer, huffs away and disappears into the crowd. His suitcase draws twin tracks of wetness on the concrete and mixes with the other tracks and footprints to form a Byzantine web barely visible under the onslaught of travelers. Heels clack, voices murmur, the announcements run nonstop. A thin layer of steam rises.*
+*The people in the crowd I recognize even less. They wear layered coats and suits, gray but for the tinge of color: a lapel here, a rose there. Hypercolor shoes. As we pour out of the station’s dome they raise their transparent umbrellas and the lightshow above us blazes. Bright! Shapes and letters caught in midair, blinking, twisting, trails of marching ants circling them like cartouches. Girls and whisky and faraway sunsets. My umbrella is much more humble, it rises to blot out the signs.*
+*I pinball among the crowd between pretty faces and perfect haircuts and ask my question. I am rebuffed each time. Only one man stops to tell me he doesn’t know, then steps into the street, raising his newspaper above his head, and ducks into a taxi.*
+*Among the crowd I spot one like no other. A shorter, older woman, her face round and plain and unhurried. She stands under an awning by a butcher’s window and I join her and ask, “Madam, do you know this city?”*
+*She studies me, sees my tattered service coat, my worn-out shoes. My pack slung behind me overflowing with bulging shapes a foot above my head. My homely umbrella. “You lost, child?”*
+*“I’m looking for the funeral home.”*
+*“Which one?”*
+*“How do you mean?”*
+*“Which funeral home? In what district?”*
+*“We didn’t have districts when I grew up.”*
+*“Lord Almighty you’ve been gone. Not your city anymore, is it? Swept away is Tycho past!”*
+*“Help me find my way, then.”*
+*“A lot’s changed,” she says, eyeing the train tubes that pass above us in a spiderweb of crooked geometry. Air hisses the sound of tired pneumatics. The whole line shudders, and metal bends and groans unseen around us. Something crunches into the garbage bags down the block. “Huh,” she says. “Be wary you don’t carry that old city with you in the new. Good way to get devoured.”*
+*People pass around us, mixing with the molar-shaped taxis that trundle down the street. The crowd forms another state of matter, neither solid, nor liquid. A system of bidirectional particles. How could so many people be here by choice? I pull out my soggy ticket where I wrote down the address and I show it to the woman.*
+*“The Arms!” She is taken aback at the note. “Don’t go ye there. Less you wanted to see life at its worst.”*
+*She sends me to the train line I seek without further admonishment and melds into the passersby. I lift my umbrella to eye the world above the neon and moving screens. Barely visible in the halo of Tycho’s night the Earth hovers dull and grey and waning.*
