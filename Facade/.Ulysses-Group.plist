@@ -2,38 +2,69 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>countingGoal</key>
+	<dict>
+		<key>counterIdentifier</key>
+		<string>words</string>
+		<key>targetResult</key>
+		<integer>10000</integer>
+		<key>type</key>
+		<string>at_least</string>
+	</dict>
 	<key>resolutionData</key>
 	<dict>
+		<key>countingGoal</key>
+		<real>536137720.69027001</real>
 		<key>sheetClusters</key>
 		<dict>
 			<key>Back in Tycho.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>535448199.92049903</real>
+				<real>536109834.74621201</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>15</integer>
+					<integer>26</integer>
+				</dict>
+			</dict>
+			<key>First Meeting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>536109834.74621397</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>26</integer>
 				</dict>
 			</dict>
 			<key>Intro - City.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>535448199.91607201</real>
+				<real>536109834.746207</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>14</integer>
+					<integer>26</integer>
+				</dict>
+			</dict>
+			<key>The Silence.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>536109834.74981302</real>
+				<key>version</key>
+				<dict>
+					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+					<integer>27</integer>
 				</dict>
 			</dict>
 			<key>Yuki's Death.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>535448199.91607302</real>
+				<real>536109834.74620903</real>
 				<key>version</key>
 				<dict>
 					<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-					<integer>14</integer>
+					<integer>26</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -44,16 +75,23 @@
 			<string>Intro - City.md</string>
 			<string>Yuki's Death.md</string>
 			<string>Back in Tycho.md</string>
+			<string>First Meeting.md</string>
+			<string>The Silence.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>countingGoal</key>
+		<dict>
+			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
+			<integer>6</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>33c640e1fd941fa6e4ed895572fe837efaf2a6ddb28a5d53fa625f142123053e</key>
-			<integer>16</integer>
+			<integer>28</integer>
 		</dict>
 	</dict>
 </dict>
